@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
-
+   <link href="jpf.css" rel="stylesheet" />
+   <link href="stable.css" rel="stylesheet" />
    <head>
    <!--
       New Perspectives on HTML and CSS
@@ -8,8 +9,8 @@
       Case Problem 1
 
       Sudoku Puzzle
-      Author: 
-      Date:   
+      Author: Martin Hernandez
+      Date:   04/24/16
 
       Filename:         sudoku.htm
       Supporting files: gold.jpg, green.jpg, jpf.css, jpf.jpg, 
@@ -65,7 +66,65 @@
       </nav>
 
       <section id="main">
-
+        <table class="spuzzle"
+               summary="">
+            <caption>Sudoku</caption>
+            <rowgroup>
+                <row class="letters" span="9" />
+            </rowgroup>
+            <colgroup>
+                <col class="numbers" span="9" />
+            </colgroup>
+            <thead>
+            <tr>
+                <th></th>
+                <th>1</th>
+                <th>2</th>
+                <th>3</th>
+                <th>4</th>
+                <th>5</th>
+                <th>6</th>
+                <th>7</th>
+                <th>8</th>
+                <th>9</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <th>A</th>
+                <td colspan="3"></td>
+                <td rowspan="3"></td>
+            </tr>
+            <tr>
+                <th>B</th>
+            </tr>
+            <tr>
+                <th>C</th>
+            </tr>
+            <tr>
+                <th>D</th>
+                <td colspan="3"></td>
+                <td rowspan="3"></td>
+            </tr>
+            <tr>
+                <th>E</th>
+            </tr>
+            <tr>
+                <th>F</th>
+            </tr>
+            <tr>
+                <th>G</th>
+                <td colspan="3"></td>
+                <td rowspan="3"></td>
+            </tr>
+            <tr>
+                <th>H</th>
+            </tr>
+            <tr>
+                <th>I</th>
+            </tr>
+            </tbody>
+        </table>
 
          <article>
             <h1>To Play</h1>
