@@ -1,0 +1,86 @@
+/*
+   New Perspectives on HTML and CSS
+   Tutorial 5
+   Review Assignment
+
+   Programming Table Style Sheet
+   Author: Martin Hernandez
+   Date:   04/23/16
+
+   Filename:         programs.css
+   Supporting Files: 
+
+*/
+
+/* Style for Tables */
+table.programs {
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid black;
+    font-family: Arial, Verdana, sans-serif;
+}
+
+/* Style for caption in tables */
+table.programs caption {
+    caption-side: bottom;
+    text-align: left;
+    font-size: 0.8em;
+}
+
+/* Styles for table body */
+table.programs tbody {
+    font-size: 0.7em;
+    vertical-align: top;
+    border: 1px solid gray;
+    padding: 2px;
+}
+
+table.programs tr {
+    height: 25px;
+}
+
+/* Style for table header */
+table.programs thead {
+    color: white;
+    background-color: rgb(105, 177, 60);
+}
+
+table.programs thead tr {
+    font-size: 0.7em;
+    border: 1px solid gray;
+}
+
+table.programs thead :nth-last-of-type(8) {
+    background-color: rgb(153,86,7);
+}
+
+table.programs thead :nth-last-child(2) {
+    background-color: rgb(153,0,153);
+}
+
+table.programs thead :nth-child(8) {
+    background-color: rgb(153,0,153);
+}
+
+/* Styles for Three Groups */
+table.programs col.timeColumn {
+    background-color: rgb(215,205,151);
+    width: 10%;
+}
+
+table.programs col.wDayColumns {
+    width: 11%;
+    background-color: rgb(236,255,211);
+}
+
+table.programs col.wEndColumns {
+    width: 17%;
+    background-color: rgb(255,231,255);
+}
+
+/* Style for intro section */
+section#intro p {
+    column-count: 3;
+    column-gap: 20px;
+    column-rule: 1px solid black;
+}
