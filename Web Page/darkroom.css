@@ -1,0 +1,68 @@
+/* Style Sheet for Dark Room */
+
+/* Default Properties for whole page */
+* {
+    background-color: black;
+    background-image: url("w2.jpg");
+}
+
+/* Style Properties for Header */
+header {
+    font-family: UnifrakturMaguntia;
+    font-size: 24px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 26.4px;
+    text-align: center;
+    -webkit-text-fill-color: lightblue;
+    font-variant: small-caps;
+}
+
+header h1{
+    font-family: UnifrakturMaguntia;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 26.4px;
+    text-align: center;
+    -webkit-text-fill-color: lightblue;
+    font-size: 200%;
+    font-variant: small-caps;
+}
+
+header nav {
+    float: left;
+}
+
+/* Style Properties for Body */
+body {
+    -webkit-text-fill-color: cyan;
+    text-align: center;
+    font-size: larger;
+    margin: auto;
+    vertical-align: middle;
+}
+
+body ul a {
+    text-decoration: none;
+}
+
+/* Links */
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: aliceblue;
+}
+
+a:hover {
+
+}
+
+a:active {
+
+}
+
+footer {}

@@ -1,0 +1,96 @@
+/*
+   New Perspectives on HTML and CSS
+   Tutorial 4
+   Case Problem 1
+
+   History Style Sheet
+   Author: Martin Hernandez
+   Date:   04/10/16
+
+   Filename:         history.css
+   Supporting Files: 
+
+*/
+
+header nav {
+    display: block;
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+header {
+    background-color: rgb(51,51,51);
+    text-align: center;
+    width: 55em;
+}
+
+header img {
+    height: 4em;
+}
+
+nav {
+    float: left;
+    width: 15em;
+    background-color: rgb(51,51,51);
+}
+
+nav li {
+    font-family: "Century Gothic", sans sans-serif;
+    font-size: 0.7em;
+    list-style-type: none;
+    height: 2.7em;
+    margin-left: 1em;
+    margin-bottom: 1.2em;
+}
+
+nav li a:link {
+    color: rgb(212,212,212);
+    text-decoration: none;
+}
+
+nav li a:hover {
+    color: white;
+}
+
+#speech {
+    background-color: rgb(212,212,212);
+    width: 40em;
+    float: left;
+    font-family: "Palatino Linotype", Book Antiqua, Palatino, serif;
+}
+
+#speech h1 {
+    background-color: rgb(51,51,51);
+    color: rgb(212,212,212);
+    font-size: 2em;
+    text-align: center:
+}
+
+#speech p {
+    font-size: 0.9em;
+    margin: 1em;
+}
+
+#speech p:first-of-type:first-line {
+    text-transform: uppercase;
+}
+
+#speech p:first-of-type:first-letter {
+    float: left;
+    font-size: 4em;
+    height: 0.8em;
+    margin-right: 0.3em;
+    padding-right: 0.2em;
+    padding-bottom: 0.2em;
+    border: 0.02em solid black;
+}
+
+#speech img {
+    clear: right;
+    float: right;
+    height: 4em;
+}
+

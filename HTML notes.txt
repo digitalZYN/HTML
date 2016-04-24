@@ -1,0 +1,8 @@
+<br>  				Line Break
+<p> 				Paragraph element
+<h1>				Header
+<head> 				Header of document (Very Top)
+<body> 				Body of page
+<html> 				All language between these.
+style				is used to change font, alignment and color
+<a href="webpage.com">Name</a> Hyperlink
