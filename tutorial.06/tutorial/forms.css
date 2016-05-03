@@ -1,0 +1,23 @@
+/*
+   New Perspectives on HTML and CSS
+   Tutorial 6
+   Tutorial Case
+
+   Survey Forms Style Sheet
+   Author: Martin Hernandez
+   Date:   05/02/16
+
+   Filename:         forms.css
+   Supporting Files: customer.png, go.png, stop.png
+
+*/
+
+/* Field set Styles */
+
+fieldset {
+    background-color: rgb(255,246,205);
+    border: 1px solid rgb(233,69,0);
+    float: left;
+    margin: 10px 0px 10px 2.5%;
+    width 46%;
+}
