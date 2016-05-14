@@ -12,4 +12,139 @@
 
 */
 
+/* Field Set Styles */
+fieldset {
+    background-color: rgb(255,246,205);
+    border: 1px solid rgb(233,69,0);
+    float: left;
+    margin: 1%;
+}
+
+fieldset#custInfo {
+    width: 35%;
+}
+
+fieldset#buildPizza {
+    width: 60%;
+}
+
+fieldset#meat {
+    width: 47%;
+    background-color: rgb(237,178,74);
+}
+
+fieldset#vegetables {
+    width: 47%;
+    background-color: rgb(237,178,74);
+}
+
+legend {
+    font-size: 0.9em;
+}
+
+/* Label Styles */
+label {
+    display: block;
+    font-size: 0.8em;
+    clear: left;
+    float: left;
+    width: 40%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 5px;
+}
+
+/* Input control Styles 25*/
+input {
+    display: block;
+    float: left;
+    width: 50%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+/* Text Area Styles */
+textarea {
+    display: block;
+    float: left;
+    width: 50%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: 100px;
+}
+
+/* Inline Images in Form */
+form.img {
+    display: block;
+    float: left;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.input#deltime {
+    width: 150px;
+}
+
+.img#sizeimage {
+    margin-left: 40%;
+}
+
+label.size {
+    width: 200px;
+    background: rgba(0,0,0);
+    background: transparent;
+}
+
+select#crust  {
+    float: left;
+    font-size: 0.8em;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 150px;
+}
+
+/* Spinner Control */
+input#quantity  {
+    width: 40px;
+}
+
+fieldset.optionGroup {
+    width: 50%;
+    border: none;
+    background-color: rgba(0,0,0,0);
+}
+
+#button {
+    width: 30px;
+}
+
+#doublesauce {
+    width: 20px;
+}
+
+#doublecheese {
+    width: 20px;
+}
+
+input[type="submit"] {
+    width: 150px;
+    float: none;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+input:focus, select:focus, textarea:focus {
+    background-color: rgb(220,255,220);
+}
+
+input:focus:valid {
+    background: rgb(220,255,220) url(go.png) bottom right no-repeat;
+
+    -o-background-size: contain;
+    -moz-background-size: contain;
+    -webkit-background-size: contain;
+    background-size: contain;
+}
 

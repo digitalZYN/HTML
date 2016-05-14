@@ -86,7 +86,7 @@ fieldset.optionGroup input {
 
 /* Text area styles */
 
-textarea {
+textarea { /* NEEDS WORK */
     display: block;
     font-size: 0.9em;
     float: left;

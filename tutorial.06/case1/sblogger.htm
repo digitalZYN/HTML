@@ -8,8 +8,8 @@
       Case Problem 1
 
       SBlogger News page
-      Author: 
-      Date:   
+      Author: Martin Hernandez
+      Date:   05/12/16
 
       Filename:         sblogger.htm
       Supporting files: blog.css, comments.css, go.png, 
@@ -21,7 +21,7 @@
       <script src="modernizr-1.5.js"></script>
       <script src="formsubmit.js"></script>
       <link href="blog.css" rel="stylesheet" type="text/css" />
-
+      <link href="comments.css" rel="stylesheet" type="text/css" />
    </head>
 
 
@@ -92,7 +92,22 @@
          </article>
 
          <h2>Post Your Comments</h2>
-
+         <form action="http://www.sblogger/cgi-bin/subcomments" method="post">
+            <fieldset id="commentFS">
+               <label for="username">Username
+                  <input name="username" id="username" title="Supply your username" required="required" />
+               </label>
+               <label for="email">E-Mail
+                  <input type="email" id="email" title="Supply a valid E-Mail address" required="required"  />
+               </label>
+               <label for="password">Password
+                  <input type="password" id="password" title="You must provide your password" required="required" />
+               </label>
+               <label for="commentBox">Comment<br>(500 character limit)</label>
+                  <textarea name="commentBox" id="commentBox" cols="25" rows="10" wrap="hard" ></textarea>
+            </fieldset>
+            <input type="submit" id="submit" value=" Submit Comment " />
+         </form>
 
 
       </section>

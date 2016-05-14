@@ -1,0 +1,79 @@
+/*
+   New Perspectives on HTML and CSS
+   Tutorial 6
+   Case Problem 1
+
+   Comment Form Style Sheet
+   Author: Martin Hernandez
+   Date:   05/12/16
+
+   Filename:         comments.css
+   Supporting Files: go.png, stop.png
+
+*/
+
+/* Fieldset styles */
+fieldset {
+    background-color: rgb(245,245,255);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 5px;
+    width: 90%;
+}
+
+/* Label Styles */
+label {
+    display: block;
+    clear: left;
+    float: left;
+    font-size: 0.9em;
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+/* Input control styles */
+input, textarea {
+    float: right;
+    font-size: 0.9em;
+    width: 55%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+textarea {
+    hieght: 150px;
+}
+
+input#submit {
+    clear: left;
+    clear: right;
+    clear: up;
+    clear: down;
+    display: block;
+    float: none;
+    width: 200px;
+    height: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+input:focus {
+    background-color: rgb(255,255,240);
+}
+
+input:focus:valid {
+    background: rgb(255,240,225) url("go.png") bottom right no-repeat;
+    width: 15px;
+    height: 15px;
+}
+
+input:focus:invalid {
+    background: rgb(240,225,225) url(stop.png) bottom right no-repeat;
+    width: 15px;
+    height: 15px;
+}
