@@ -1,0 +1,124 @@
+/*
+   New Perspectives on HTML and CSS
+   Tutorial 7
+   Case Problem 3
+
+   Fractals Style Sheet
+
+   Filename:         fstyles.css
+   Supporting Files: 
+
+*/
+
+/* Display HTML5 structural elements as blocks */
+
+article, aside, figure, figcaption, footer, hgroup, header, 
+section, nav {
+   display: block;
+}
+
+body 
+   {background: white url(fback.jpg) no-repeat top left; 
+    margin: 0px; 
+    padding: 0px;
+}
+
+header {
+   position: absolute; 
+   top: 18px; 
+   left: 219px;
+}
+
+
+nav {
+   float: left; 
+   width: 150px; 
+   font-size: 16px;
+   margin-top: 120px;
+}
+
+nav ul {
+   padding-left: 0px; 
+   margin-left: 10px; 
+   list-style-type: none;
+}
+
+nav a {
+   text-decoration: none; 
+   color: black;
+}
+
+nav a:visited {
+   text-decoration: black;
+}
+
+nav a:hover {
+   text-decoration: underline;
+}
+
+nav li.newTopic {
+   margin-top: 15px;
+}
+
+section {
+   float: left; 
+   width: 590px;
+   margin-top: 120px;
+}
+
+section p:first-of-type:first-line {
+   font-variant: small-caps;
+}
+
+figure {
+   float: right; 
+   margin: 0px 0px 10px 15px;
+}
+
+figcaption {
+   text-align: center;
+}
+
+article {
+   font-size: 10px; 
+   font-family: sans-serif; 
+   border: 1px solid blue; 
+   margin: 10px; 
+   width: 550px; 
+   background-color: rgb(243,224,233);
+}
+
+article h2 {
+   margin: 10px; 
+   text-align: center; 
+   font-size: 14px; 
+   color: white;
+   font-weight: normal; 
+   background-color: blue; 
+   margin: 0px; 
+   line-height: 2;
+}
+
+article li {
+   text-align: left;
+   list-style-type: circle; 
+   margin-left: 0px; 
+   padding-left: 0px; 
+   line-height: 2.2;
+}
+
+article span {
+   border: 2px outset rgb(236,233,216); 
+   font-family: sans-serif; 
+   font-size: 10px; 
+   padding: 2px; 
+   background-color: rgb(236,233,216); 
+   margin: 5px;
+}
+
+
+
+
+article  {
+   text-align: center;
+}

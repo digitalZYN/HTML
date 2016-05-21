@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c569d1a0-8d0b-431e-9bd1-bda0481e5635" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case1/devotion.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case1/devotion.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case1/devotion.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case1/fireice.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case1/fireice.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case1/fireice.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case1/rfback.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case1/rflogo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/rwlogo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/trailridge.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/trailridge.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/trailridge.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/Cmplx.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/Controls.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/FracPanel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/Mandel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/fback.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/flogo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/mandel.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/mandel.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/mandel.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/zoom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case4/CreditRoll.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case4/beethoven.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case4/beethoven.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case4/beethoven.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case4/byso.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case4/bysologo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/CreditRoll.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/fa1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/fa2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/fa3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/fa4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/fa5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/fasong.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/fasong.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/fasong.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/hatrack.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/hatrack.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/hatrack.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/jplogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/popcorn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/review.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/threestars.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/CreditRoll.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/astaire1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/astaire2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/astaire3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/dance.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/jplogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/overture.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/overture.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/popcorn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/rwdance.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/rwdance.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/rwdance.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/threestars.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/tutorial.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/tutorial.07.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case1/modernizr-1.5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case1/poetry.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case1/rf.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/modernizr-1.5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/roadtxt.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/rw.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/fractaltxt.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/fstyles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/modernizr-1.5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case4/bysoinfo.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case4/modernizr-1.5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case4/schedule.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/astaire.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/embed.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/fabio.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/filmlist.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/modernizr-1.5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/clips.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/creditlist.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/jp.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/jumbo.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/modernizr-1.5.js" />
+    </list>
+    <ignored path="tutorial.07.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+            <file leaf-file-name="embed.css" pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/review/embed.css">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="476">
+                    <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file leaf-file-name="jumbo.htm" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/tutorial/jumbo.htm">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="223">
+                    <caret line="183" column="30" selection-start-line="183" selection-start-column="30" selection-end-line="183" selection-end-column="30" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="tutorial.07" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="astaire.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/review/astaire.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3196">
+              <caret line="188" column="0" selection-start-line="188" selection-start-column="0" selection-end-line="191" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rf.htm" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/case1/rf.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="85" column="80" selection-start-line="85" selection-start-column="80" selection-end-line="85" selection-end-column="80" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="poetry.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case1/poetry.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1224">
+              <caret line="72" column="15" selection-start-line="72" selection-start-column="15" selection-end-line="72" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="filmlist.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/review/filmlist.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="36" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="74" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="clips.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tutorial/clips.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tutorial/jumbotxt.htm" />
+        <option value="$PROJECT_DIR$/tutorial/clipstxt.css" />
+        <option value="$PROJECT_DIR$/tutorial/clips.css" />
+        <option value="$PROJECT_DIR$/review/embedtxt.css" />
+        <option value="$PROJECT_DIR$/review/astairetxt.htm" />
+        <option value="$PROJECT_DIR$/review/astaire.htm" />
+        <option value="$PROJECT_DIR$/review/embed.css" />
+        <option value="$PROJECT_DIR$/case1/rftxt.htm" />
+        <option value="$PROJECT_DIR$/tutorial/jumbo.htm" />
+        <option value="$PROJECT_DIR$/case1/rf.htm" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="y" value="3" />
+    <option name="width" value="1025" />
+    <option name="height" value="1084" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial.07" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial.07" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial.07" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial.07" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial.07" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial.07" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial.07" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="case1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tutorial.08" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.rf.htm">
+    <configuration default="false" name="jumbo.htm" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tutorial.07/tutorial/jumbo.htm">
+      <method />
+    </configuration>
+    <configuration default="false" name="astaire.htm" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tutorial.07/review/astaire.htm">
+      <method />
+    </configuration>
+    <configuration default="false" name="rf.htm" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tutorial.07/case1/rf.htm">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.jumbo.htm" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.astaire.htm" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.rf.htm" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.rf.htm" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.astaire.htm" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.jumbo.htm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c569d1a0-8d0b-431e-9bd1-bda0481e5635" name="Default" comment="" />
+      <created>1463262261271</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1463262261271</updated>
+      <workItem from="1463262262512" duration="1932000" />
+      <workItem from="1463338891229" duration="6949000" />
+      <workItem from="1463448756625" duration="8764000" />
+      <workItem from="1463601324700" duration="49000" />
+      <workItem from="1463601423575" duration="5005000" />
+      <workItem from="1463611547471" duration="3916000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="26615000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="3" width="1025" height="1084" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.295846" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937366" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/review/astaire.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3196">
+          <caret line="188" column="0" selection-start-line="188" selection-start-column="0" selection-end-line="191" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case1/rf.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="142" selection-start-line="46" selection-start-column="142" selection-end-line="46" selection-end-column="142" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case1/poetry.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="72" column="15" selection-start-line="72" selection-start-column="15" selection-end-line="72" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/filmlist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="36" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/clips.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/embed.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/jumbo.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/astaire.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3196">
+          <caret line="188" column="0" selection-start-line="188" selection-start-column="0" selection-end-line="191" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/filmlist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="36" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/clips.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/embed.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/jumbo.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/astaire.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3196">
+          <caret line="188" column="0" selection-start-line="188" selection-start-column="0" selection-end-line="191" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/filmlist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="36" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/clips.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/embed.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/jumbo.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/jumbo.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2941">
+          <caret line="173" column="43" selection-start-line="173" selection-start-column="43" selection-end-line="173" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/creditlist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/clips.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/jumbo.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/clips.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/creditlist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="30" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/filmlist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="36" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/clips.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case1/poetry.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="72" column="15" selection-start-line="72" selection-start-column="15" selection-end-line="72" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/embed.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/astaire.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3196">
+          <caret line="188" column="0" selection-start-line="188" selection-start-column="0" selection-end-line="191" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/jumbo.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="183" column="30" selection-start-line="183" selection-start-column="30" selection-end-line="183" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case1/rf.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="85" column="80" selection-start-line="85" selection-start-column="80" selection-end-line="85" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

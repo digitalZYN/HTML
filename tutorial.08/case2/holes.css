@@ -1,0 +1,44 @@
+/*
+   New Perspectives on HTML and CSS
+   Tutorial 8
+   Case Problem 2
+
+   Willet Creek Holes Style Sheet
+
+   Filename:         holes.css
+   Supporting Files: 
+
+*/
+
+
+div#stats {
+
+   display: block;
+   width: 40%;
+   float: left;
+   margin-right: 5%;
+}
+
+div#hole_summary {
+   display: block;
+   width: 55%;
+   float: left;
+}
+
+ul {
+   list-style-type: none;
+   padding-left: 0px;
+   margin-left: 0px;
+}
+
+li {
+   font-size: 16px;
+}
+
+p {
+   font-size: 20px;
+}
+
+img {
+   width: 70%;
+}

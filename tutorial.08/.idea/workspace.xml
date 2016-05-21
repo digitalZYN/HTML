@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8df7a5ac-ab49-4efd-ba84-2e2bc2ac53d0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case1/devotion.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case1/devotion.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case1/devotion.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case1/fireice.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case1/fireice.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case1/fireice.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case1/rfback.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case1/rflogo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case2/rwlogo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case2/trailridge.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case2/trailridge.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case2/trailridge.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case3/Cmplx.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case3/Controls.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case3/FracPanel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case3/Mandel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case3/fback.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case3/flogo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case3/mandel.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case3/mandel.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case3/mandel.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case3/zoom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case4/CreditRoll.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case4/beethoven.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case4/beethoven.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case4/beethoven.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case4/byso.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case4/bysologo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/CreditRoll.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/fa1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/fa2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/fa3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/fa4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/fa5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/fasong.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/fasong.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/fasong.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/hatrack.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/hatrack.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/hatrack.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/jplogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/popcorn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/review.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/threestars.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/CreditRoll.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/astaire1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/astaire2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/astaire3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/dance.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/jplogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/overture.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/overture.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/popcorn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/rwdance.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/rwdance.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/rwdance.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/threestars.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/tutorial.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case1/dw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case1/halfstar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case1/star.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case1/torte.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/gray.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/wcback.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/willet.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/willet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/m01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/m13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/m16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/m20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/m27.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/m31.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/messier.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/skyweb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case4/brlogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case4/img01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case4/img02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case4/img03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case4/img04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case4/img05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case4/img06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case4/img07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case4/img08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case4/img09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/cengage.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/demo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/demo2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/filter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/family.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/link01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/link02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/link03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/link04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/link05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/link06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/link07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/link08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/paper.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/tblogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/tblogo_sm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/borderimg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/dubcek.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/graybar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/photo1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/photo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/photo3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/photo4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/photo5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/tblogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/tblogo_sm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/.idea/tutorial.07.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case1/modernizr-1.5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case1/poetry.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case1/rf.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case2/modernizr-1.5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case2/roadtxt.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case2/rw.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case3/fractaltxt.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case3/fstyles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case3/modernizr-1.5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case4/bysoinfo.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case4/modernizr-1.5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case4/schedule.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/astaire.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/embed.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/fabio.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/filmlist.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/modernizr-1.5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/clips.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/creditlist.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/jp.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/jumbo.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/modernizr-1.5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/tutorial.08.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case1/dwbase.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case1/dweffectstxt.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case1/dwlayout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case1/dwprinttxt.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case1/modernizr-1.5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case1/recipetxt.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h01.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h02.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h03.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h04.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h05.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h06.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h07.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h08.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h09.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h10.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h11.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h12.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h13.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h14.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h15.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h16.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h17.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h18.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/holes.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/modernizr-1.5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/wcbase.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/wceffectstxt.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/wclayout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/wcmobiletxt.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/willettxt.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/messtxt.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/modernizr-1.5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/swbase.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/sweffectstxt.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/swlayout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/swprinttxt.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case4/listing.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case4/modernizr-1.5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/demo_box_shadows.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/demo_ie_filters.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/demo_linear_gradients.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/demo_radial_gradients.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/demo_repeat_linear_gradients.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/demo_repeat_radial_gradients.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/demo_text_shadows.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/demo_transformations.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/demo_transformations3d.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/dfbase.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/dfeffectstxt.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/dflayout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/dfmobiletxt.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/dfprinttxt.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/dubcektxt.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/modernizr-1.5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/effectstxt.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/landscape.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/mobiletxt.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/modernizr-1.5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/portrait.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/printtxt.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/treebook.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Web Page/index.html" afterPath="$PROJECT_DIR$/../Web Page/index.html" />
+    </list>
+    <ignored path="tutorial.08.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="tutorial.08" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="treebook.htm" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tutorial/treebook.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tutorial/treebooktxt.htm" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="y" value="18" />
+    <option name="width" value="1032" />
+    <option name="height" value="1069" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial.08" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial.08" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial.08" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial.08" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial.08" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Web Page" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.treebook.htm">
+    <configuration default="false" name="treebook.htm" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tutorial.08/tutorial/treebook.htm">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.treebook.htm" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.treebook.htm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8df7a5ac-ab49-4efd-ba84-2e2bc2ac53d0" name="Default" comment="" />
+      <created>1463636880336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1463636880336</updated>
+      <workItem from="1463636881772" duration="813000" />
+      <workItem from="1463843161301" duration="253000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1066000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="18" width="1032" height="1069" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24748491" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tutorial/treebook.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/landscape.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/treebook.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

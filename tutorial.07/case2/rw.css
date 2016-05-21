@@ -1,0 +1,97 @@
+/*
+   New Perspectives on HTML and CSS
+   Tutorial 7
+   Case Problem 2
+
+   Roadways Style Sheet
+
+   Filename:         rw.css
+   Supporting Files: 
+
+*/
+
+/* Display HTML5 structural elements as blocks */
+
+article, aside, figure, figcaption, footer, hgroup, header, 
+section, nav {
+   display: block;
+}
+
+
+/* Set the default page element styles */
+
+body * {
+   font-family: Verdana, Geneva, sans-serif;
+   font-size: 100%;
+   font-weight: inherit;
+   line-height: 1.2em;
+   list-style: none;
+   margin: 0px;
+   padding: 0px;
+   text-decoration: none;
+   vertical-align: baseline;
+}
+
+nav {
+   float: left;
+   width: 150px;
+   margin-right: 40px;
+}
+
+nav ul {
+   list-style-type: none; 
+   padding-left: 0px; 
+   margin-left: 30px; 
+   font-size: 1em;
+}
+
+nav a {
+   text-decoration: none; 
+   color: rgb(0,128,0);
+}
+
+nav a:hover {
+   text-decoration: overline underline;
+}
+
+nav li.newTopic {
+   margin: 10px 0px 10px -20px;
+}
+
+header {
+   float: left;
+   border-bottom: 2px solid rgb(0,128,0);
+   width: 700px;
+}
+
+section {
+   float: left;
+   width: 700px;
+}
+
+section h2 {
+   font-size: 1.9em;
+   letter-spacing: 8px;
+   margin: 10px 0px 15px 0px;
+}
+
+section p {
+   margin: 10px 0px;
+}
+
+
+section figure {
+   float: right;
+   text-align: center;
+   width: 350px;
+   margin: 0px 0px 10px 10px;
+}
+
+section figure figcaption {
+   text-align: center;
+   font-size: 0.7em;
+   font-style: italic;
+}
+
+
+
