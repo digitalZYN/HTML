@@ -2,227 +2,687 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8df7a5ac-ab49-4efd-ba84-2e2bc2ac53d0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case1/devotion.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case1/devotion.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case1/devotion.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case1/fireice.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case1/fireice.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case1/fireice.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case1/rfback.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case1/rflogo.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case2/rwlogo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case2/trailridge.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case2/trailridge.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case2/trailridge.webm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case3/Cmplx.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case3/Controls.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case3/FracPanel.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case3/Mandel.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case3/fback.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case3/flogo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case3/mandel.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case3/mandel.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case3/mandel.webm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case3/zoom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case4/CreditRoll.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case4/beethoven.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case4/beethoven.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case4/beethoven.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case4/byso.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case4/bysologo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/CreditRoll.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/fa1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/fa2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/fa3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/fa4.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/fa5.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/fasong.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/fasong.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/fasong.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/hatrack.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/hatrack.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/hatrack.webm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/jplogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/popcorn.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/review.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/threestars.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/CreditRoll.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/astaire1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/astaire2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/astaire3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/dance.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/jplogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/overture.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/overture.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/popcorn.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/rwdance.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/rwdance.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/rwdance.webm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/threestars.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/tutorial.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case1/dw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case1/halfstar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case1/star.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case1/torte.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/gray.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole07.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole08.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole09.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/hole18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/wcback.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/willet.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/willet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/m01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/m13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/m16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/m20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/m27.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/m31.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/messier.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/skyweb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case4/brlogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case4/img01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case4/img02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case4/img03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case4/img04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case4/img05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case4/img06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case4/img07.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case4/img08.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case4/img09.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/cengage.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/demo.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/demo2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/filter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/family.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/link01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/link02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/link03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/link04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/link05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/link06.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/link07.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/link08.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/paper.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/tblogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/tblogo_sm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/borderimg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/dubcek.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/graybar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/photo1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/photo2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/photo3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/photo4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/photo5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/tblogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/tblogo_sm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/.idea/tutorial.07.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case1/modernizr-1.5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case1/poetry.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case1/rf.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case2/modernizr-1.5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case2/roadtxt.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case2/rw.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case3/fractaltxt.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case3/fstyles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case3/modernizr-1.5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case4/bysoinfo.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case4/modernizr-1.5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/case4/schedule.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/astaire.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/embed.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/fabio.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/filmlist.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/review/modernizr-1.5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/clips.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/creditlist.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/jp.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/jumbo.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/modernizr-1.5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/tutorial.08.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case1/dwbase.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case1/dweffectstxt.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case1/dwlayout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case1/dwprinttxt.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case1/modernizr-1.5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case1/recipetxt.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h01.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h02.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h03.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h04.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h05.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h06.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h07.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h08.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h09.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h10.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h11.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h12.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h13.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h14.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h15.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h16.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h17.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/h18.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/holes.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/modernizr-1.5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/wcbase.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/wceffectstxt.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/wclayout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/wcmobiletxt.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case2/willettxt.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/messtxt.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/modernizr-1.5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/swbase.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/sweffectstxt.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/swlayout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case3/swprinttxt.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case4/listing.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case4/modernizr-1.5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/demo_box_shadows.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/demo_ie_filters.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/demo_linear_gradients.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/demo_radial_gradients.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/demo_repeat_linear_gradients.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/demo_repeat_radial_gradients.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/demo_text_shadows.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/demo_transformations.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/demo_transformations3d.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/dfbase.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/dfeffectstxt.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/dflayout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/dfmobiletxt.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/dfprinttxt.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/dubcektxt.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/modernizr-1.5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/effectstxt.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/landscape.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/mobiletxt.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/modernizr-1.5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/portrait.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/printtxt.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/treebook.htm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/case1/dweffectstxt.css" afterPath="$PROJECT_DIR$/case1/dweffects.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/case1/dwprinttxt.css" afterPath="$PROJECT_DIR$/case1/dwprint.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/case1/recipetxt.htm" afterPath="$PROJECT_DIR$/case1/recipe.htm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/review/dfeffectstxt.css" afterPath="$PROJECT_DIR$/review/dfeffects.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/review/dfmobiletxt.css" afterPath="$PROJECT_DIR$/review/dfmobile.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/review/dfprinttxt.css" afterPath="$PROJECT_DIR$/review/dfprint.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/review/dubcektxt.htm" afterPath="$PROJECT_DIR$/review/dubcek.htm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tutorial/effectstxt.css" afterPath="$PROJECT_DIR$/tutorial/effects.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tutorial/mobiletxt.css" afterPath="$PROJECT_DIR$/tutorial/mobile.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tutorial/printtxt.css" afterPath="$PROJECT_DIR$/tutorial/print.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Web Page/w2.jpg" afterPath="$PROJECT_DIR$/../Web Page/w2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/__MACOSX/._case1" afterPath="$PROJECT_DIR$/../tutorial.01/__MACOSX/._case1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/__MACOSX/._review" afterPath="$PROJECT_DIR$/../tutorial.01/__MACOSX/._review" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/__MACOSX/._tutorial" afterPath="$PROJECT_DIR$/../tutorial.01/__MACOSX/._tutorial" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/__MACOSX/case1/._mhlogo.jpg" afterPath="$PROJECT_DIR$/../tutorial.01/__MACOSX/case1/._mhlogo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/__MACOSX/review/._basiclogo.png" afterPath="$PROJECT_DIR$/../tutorial.01/__MACOSX/review/._basiclogo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/__MACOSX/review/._basicstick.png" afterPath="$PROJECT_DIR$/../tutorial.01/__MACOSX/review/._basicstick.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/__MACOSX/tutorial/._jpslogo.png" afterPath="$PROJECT_DIR$/../tutorial.01/__MACOSX/tutorial/._jpslogo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/case1/case1.zip" afterPath="$PROJECT_DIR$/../tutorial.01/case1/case1.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/case1/mhlogo.jpg" afterPath="$PROJECT_DIR$/../tutorial.01/case1/mhlogo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/review/basiclogo.png" afterPath="$PROJECT_DIR$/../tutorial.01/review/basiclogo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/review/basicstick.png" afterPath="$PROJECT_DIR$/../tutorial.01/review/basicstick.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/review/review.zip" afterPath="$PROJECT_DIR$/../tutorial.01/review/review.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/tutorial/jpslogo.png" afterPath="$PROJECT_DIR$/../tutorial.01/tutorial/jpslogo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/tutorial/tutorial.zip" afterPath="$PROJECT_DIR$/../tutorial.01/tutorial/tutorial.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Case 2/__MACOSX/._case1" afterPath="$PROJECT_DIR$/../tutorial.02/Case 2/__MACOSX/._case1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Case 2/__MACOSX/case1/._highered.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Case 2/__MACOSX/case1/._highered.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Case 2/case1.zip" afterPath="$PROJECT_DIR$/../tutorial.02/Case 2/case1.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Case 2/case1/case1.zip" afterPath="$PROJECT_DIR$/../tutorial.02/Case 2/case1/case1.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Case 2/case1/highered.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Case 2/case1/highered.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/._review" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/._review" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._child1.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._child1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._child2.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._child2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._child3.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._child3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._conlogo.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._conlogo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._contest1.png" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._contest1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._contest2.png" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._contest2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._contest3.png" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._contest3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._flower1.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._flower1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._flower2.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._flower2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._flower3.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._flower3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._scenic1.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._scenic1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._scenic2.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._scenic2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._scenic3.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._scenic3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._thirdstip.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._thirdstip.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._thumb1.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._thumb1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._thumb2.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._thumb2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._thumb3.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._thumb3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._thumb4.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._thumb4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._thumb5.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._thumb5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._thumb6.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._thumb6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._thumb7.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._thumb7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._thumb8.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._thumb8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._thumb9.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._thumb9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review(1).zip" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review(1).zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review/child1.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review/child1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review/child2.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review/child2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review/child3.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review/child3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review/conlogo.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review/conlogo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review/contest1.png" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review/contest1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review/contest2.png" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review/contest2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review/contest3.png" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review/contest3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review/flower1.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review/flower1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review/flower2.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review/flower2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review/flower3.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review/flower3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review/review.zip" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review/review.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review/scenic1.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review/scenic1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review/scenic2.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review/scenic2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review/scenic3.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review/scenic3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review/thirdstip.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review/thirdstip.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review/thumb1.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review/thumb1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review/thumb2.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review/thumb2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review/thumb3.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review/thumb3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review/thumb4.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review/thumb4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review/thumb5.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review/thumb5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review/thumb6.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review/thumb6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review/thumb7.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review/thumb7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review/thumb8.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review/thumb8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review/thumb9.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review/thumb9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/__MACOSX/._tutorial" afterPath="$PROJECT_DIR$/../tutorial.02/__MACOSX/._tutorial" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/__MACOSX/tutorial/._camshots.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/__MACOSX/tutorial/._camshots.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/__MACOSX/tutorial/._pearlake.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/__MACOSX/tutorial/._pearlake.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/__MACOSX/tutorial/._rainbow.png" afterPath="$PROJECT_DIR$/../tutorial.02/__MACOSX/tutorial/._rainbow.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/__MACOSX/tutorial/._rainbow_lg.png" afterPath="$PROJECT_DIR$/../tutorial.02/__MACOSX/tutorial/._rainbow_lg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/__MACOSX/tutorial/._thirds.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/__MACOSX/tutorial/._thirds.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/camshots.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/camshots.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/pearlake.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/pearlake.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/rainbow.png" afterPath="$PROJECT_DIR$/../tutorial.02/rainbow.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/rainbow_lg.png" afterPath="$PROJECT_DIR$/../tutorial.02/rainbow_lg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/thirds.jpg" afterPath="$PROJECT_DIR$/../tutorial.02/thirds.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/tutorial.02.zip" afterPath="$PROJECT_DIR$/../tutorial.02/tutorial.02.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case1/case1.zip" afterPath="$PROJECT_DIR$/../tutorial.03/case1/case1.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case1/locks.jpg" afterPath="$PROJECT_DIR$/../tutorial.03/case1/locks.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case1/logo.gif" afterPath="$PROJECT_DIR$/../tutorial.03/case1/logo.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case1/scytale.gif" afterPath="$PROJECT_DIR$/../tutorial.03/case1/scytale.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case2/mwlogo.png" afterPath="$PROJECT_DIR$/../tutorial.03/case2/mwlogo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case2/wheelmarker.png" afterPath="$PROJECT_DIR$/../tutorial.03/case2/wheelmarker.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case3/cwphoto.png" afterPath="$PROJECT_DIR$/../tutorial.03/case3/cwphoto.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case3/mwulogo.png" afterPath="$PROJECT_DIR$/../tutorial.03/case3/mwulogo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case3/pcphoto.png" afterPath="$PROJECT_DIR$/../tutorial.03/case3/pcphoto.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case4/chen.png" afterPath="$PROJECT_DIR$/../tutorial.03/case4/chen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case4/gcclogo.png" afterPath="$PROJECT_DIR$/../tutorial.03/case4/gcclogo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case4/nobile-webfont.eot" afterPath="$PROJECT_DIR$/../tutorial.03/case4/nobile-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case4/nobile-webfont.ttf" afterPath="$PROJECT_DIR$/../tutorial.03/case4/nobile-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case4/nobile-webfont.woff" afterPath="$PROJECT_DIR$/../tutorial.03/case4/nobile-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/demo/cengage.jpg" afterPath="$PROJECT_DIR$/../tutorial.03/demo/cengage.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/demo/demo.gif" afterPath="$PROJECT_DIR$/../tutorial.03/demo/demo.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/demo/demo2.gif" afterPath="$PROJECT_DIR$/../tutorial.03/demo/demo2.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/review/CloisterBlack.eot" afterPath="$PROJECT_DIR$/../tutorial.03/review/CloisterBlack.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/review/CloisterBlack.ttf" afterPath="$PROJECT_DIR$/../tutorial.03/review/CloisterBlack.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/review/CloisterBlack.woff" afterPath="$PROJECT_DIR$/../tutorial.03/review/CloisterBlack.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/review/flake.png" afterPath="$PROJECT_DIR$/../tutorial.03/review/flake.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/review/holiday.jpg" afterPath="$PROJECT_DIR$/../tutorial.03/review/holiday.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/review/review.zip" afterPath="$PROJECT_DIR$/../tutorial.03/review/review.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/review/salogo.png" afterPath="$PROJECT_DIR$/../tutorial.03/review/salogo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/tutorial.03.zip" afterPath="$PROJECT_DIR$/../tutorial.03/tutorial.03.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/tutorial/arrow.png" afterPath="$PROJECT_DIR$/../tutorial.03/tutorial/arrow.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/tutorial/nobile-webfont.eot" afterPath="$PROJECT_DIR$/../tutorial.03/tutorial/nobile-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/tutorial/nobile-webfont.ttf" afterPath="$PROJECT_DIR$/../tutorial.03/tutorial/nobile-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/tutorial/nobile-webfont.woff" afterPath="$PROJECT_DIR$/../tutorial.03/tutorial/nobile-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/tutorial/photo1.jpg" afterPath="$PROJECT_DIR$/../tutorial.03/tutorial/photo1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/tutorial/photo2.jpg" afterPath="$PROJECT_DIR$/../tutorial.03/tutorial/photo2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/tutorial/photo3.jpg" afterPath="$PROJECT_DIR$/../tutorial.03/tutorial/photo3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/tutorial/photo4.jpg" afterPath="$PROJECT_DIR$/../tutorial.03/tutorial/photo4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/tutorial/photo5.jpg" afterPath="$PROJECT_DIR$/../tutorial.03/tutorial/photo5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/tutorial/salogo.png" afterPath="$PROJECT_DIR$/../tutorial.03/tutorial/salogo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case1/arlogo.png" afterPath="$PROJECT_DIR$/../tutorial.04/case1/arlogo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case1/case1.zip" afterPath="$PROJECT_DIR$/../tutorial.04/case1/case1.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case1/lincoln01.png" afterPath="$PROJECT_DIR$/../tutorial.04/case1/lincoln01.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case1/lincoln02.png" afterPath="$PROJECT_DIR$/../tutorial.04/case1/lincoln02.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case1/lincoln03.png" afterPath="$PROJECT_DIR$/../tutorial.04/case1/lincoln03.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case1/lincoln04.png" afterPath="$PROJECT_DIR$/../tutorial.04/case1/lincoln04.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case1/lincoln05.png" afterPath="$PROJECT_DIR$/../tutorial.04/case1/lincoln05.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case1/lincoln06.png" afterPath="$PROJECT_DIR$/../tutorial.04/case1/lincoln06.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case1/lincoln07.png" afterPath="$PROJECT_DIR$/../tutorial.04/case1/lincoln07.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case1/lincoln08.png" afterPath="$PROJECT_DIR$/../tutorial.04/case1/lincoln08.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case1/lincoln09.png" afterPath="$PROJECT_DIR$/../tutorial.04/case1/lincoln09.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case1/lincoln10.png" afterPath="$PROJECT_DIR$/../tutorial.04/case1/lincoln10.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case2/notice.png" afterPath="$PROJECT_DIR$/../tutorial.04/case2/notice.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case2/rblogo.png" afterPath="$PROJECT_DIR$/../tutorial.04/case2/rblogo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case2/redbar.png" afterPath="$PROJECT_DIR$/../tutorial.04/case2/redbar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case2/slice.png" afterPath="$PROJECT_DIR$/../tutorial.04/case2/slice.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case2/toppings.png" afterPath="$PROJECT_DIR$/../tutorial.04/case2/toppings.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case3/bluebar.png" afterPath="$PROJECT_DIR$/../tutorial.04/case3/bluebar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case3/image0.jpg" afterPath="$PROJECT_DIR$/../tutorial.04/case3/image0.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case3/image1.jpg" afterPath="$PROJECT_DIR$/../tutorial.04/case3/image1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case3/image2.jpg" afterPath="$PROJECT_DIR$/../tutorial.04/case3/image2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case3/image3.jpg" afterPath="$PROJECT_DIR$/../tutorial.04/case3/image3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case3/image4.jpg" afterPath="$PROJECT_DIR$/../tutorial.04/case3/image4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case3/image5.jpg" afterPath="$PROJECT_DIR$/../tutorial.04/case3/image5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case3/image6.jpg" afterPath="$PROJECT_DIR$/../tutorial.04/case3/image6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case3/image7.jpg" afterPath="$PROJECT_DIR$/../tutorial.04/case3/image7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case3/image8.jpg" afterPath="$PROJECT_DIR$/../tutorial.04/case3/image8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case3/image9.jpg" afterPath="$PROJECT_DIR$/../tutorial.04/case3/image9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case3/lpmap.jpg" afterPath="$PROJECT_DIR$/../tutorial.04/case3/lpmap.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case4/blake.jpg" afterPath="$PROJECT_DIR$/../tutorial.04/case4/blake.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case4/cougar.jpg" afterPath="$PROJECT_DIR$/../tutorial.04/case4/cougar.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case4/parch.jpg" afterPath="$PROJECT_DIR$/../tutorial.04/case4/parch.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case4/parch2.jpg" afterPath="$PROJECT_DIR$/../tutorial.04/case4/parch2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case4/pcglogo.jpg" afterPath="$PROJECT_DIR$/../tutorial.04/case4/pcglogo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/demo/cengage.gif" afterPath="$PROJECT_DIR$/../tutorial.04/demo/cengage.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/demo/demo.gif" afterPath="$PROJECT_DIR$/../tutorial.04/demo/demo.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/demo/demo2.gif" afterPath="$PROJECT_DIR$/../tutorial.04/demo/demo2.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/demo/grid.gif" afterPath="$PROJECT_DIR$/../tutorial.04/demo/grid.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/demo/grid2.gif" afterPath="$PROJECT_DIR$/../tutorial.04/demo/grid2.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/review/alisha.png" afterPath="$PROJECT_DIR$/../tutorial.04/review/alisha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/review/cp_logo2.png" afterPath="$PROJECT_DIR$/../tutorial.04/review/cp_logo2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/review/review.zip" afterPath="$PROJECT_DIR$/../tutorial.04/review/review.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/review/slide01.png" afterPath="$PROJECT_DIR$/../tutorial.04/review/slide01.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/review/slide02.png" afterPath="$PROJECT_DIR$/../tutorial.04/review/slide02.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/review/slide03.png" afterPath="$PROJECT_DIR$/../tutorial.04/review/slide03.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/review/slide04.png" afterPath="$PROJECT_DIR$/../tutorial.04/review/slide04.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/review/slide05.png" afterPath="$PROJECT_DIR$/../tutorial.04/review/slide05.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/review/slide06.png" afterPath="$PROJECT_DIR$/../tutorial.04/review/slide06.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/review/slide07.png" afterPath="$PROJECT_DIR$/../tutorial.04/review/slide07.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/review/slide08.png" afterPath="$PROJECT_DIR$/../tutorial.04/review/slide08.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/tutorial/atwood.png" afterPath="$PROJECT_DIR$/../tutorial.04/tutorial/atwood.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/tutorial/bike_bg.png" afterPath="$PROJECT_DIR$/../tutorial.04/tutorial/bike_bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/tutorial/cp_logo.png" afterPath="$PROJECT_DIR$/../tutorial.04/tutorial/cp_logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/tutorial/rawlings.png" afterPath="$PROJECT_DIR$/../tutorial.04/tutorial/rawlings.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/tutorial/rim.png" afterPath="$PROJECT_DIR$/../tutorial.04/tutorial/rim.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/tutorial/tutorial.zip" afterPath="$PROJECT_DIR$/../tutorial.04/tutorial/tutorial.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case1/gold.jpg" afterPath="$PROJECT_DIR$/../tutorial.05/case1/gold.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case1/green.jpg" afterPath="$PROJECT_DIR$/../tutorial.05/case1/green.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case1/jpf.jpg" afterPath="$PROJECT_DIR$/../tutorial.05/case1/jpf.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case2/bottom.jpg" afterPath="$PROJECT_DIR$/../tutorial.05/case2/bottom.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case2/bottomleft.jpg" afterPath="$PROJECT_DIR$/../tutorial.05/case2/bottomleft.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case2/bottomright.jpg" afterPath="$PROJECT_DIR$/../tutorial.05/case2/bottomright.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case2/ccc.jpg" afterPath="$PROJECT_DIR$/../tutorial.05/case2/ccc.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case2/left.jpg" afterPath="$PROJECT_DIR$/../tutorial.05/case2/left.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case2/right.jpg" afterPath="$PROJECT_DIR$/../tutorial.05/case2/right.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case2/tab.jpg" afterPath="$PROJECT_DIR$/../tutorial.05/case2/tab.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case2/tabred.jpg" afterPath="$PROJECT_DIR$/../tutorial.05/case2/tabred.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case2/top.jpg" afterPath="$PROJECT_DIR$/../tutorial.05/case2/top.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case2/topleft.jpg" afterPath="$PROJECT_DIR$/../tutorial.05/case2/topleft.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case2/topright.jpg" afterPath="$PROJECT_DIR$/../tutorial.05/case2/topright.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case3/bottom.jpg" afterPath="$PROJECT_DIR$/../tutorial.05/case3/bottom.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case3/bottomleft.jpg" afterPath="$PROJECT_DIR$/../tutorial.05/case3/bottomleft.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case3/bottomright.jpg" afterPath="$PROJECT_DIR$/../tutorial.05/case3/bottomright.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case3/dhomelogo.png" afterPath="$PROJECT_DIR$/../tutorial.05/case3/dhomelogo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case3/left.jpg" afterPath="$PROJECT_DIR$/../tutorial.05/case3/left.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case3/right.jpg" afterPath="$PROJECT_DIR$/../tutorial.05/case3/right.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case3/tableback.png" afterPath="$PROJECT_DIR$/../tutorial.05/case3/tableback.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case3/top.jpg" afterPath="$PROJECT_DIR$/../tutorial.05/case3/top.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case3/topleft.jpg" afterPath="$PROJECT_DIR$/../tutorial.05/case3/topleft.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case3/topright.jpg" afterPath="$PROJECT_DIR$/../tutorial.05/case3/topright.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case4/hcclogo.jpg" afterPath="$PROJECT_DIR$/../tutorial.05/case4/hcclogo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/review/kpaf.jpg" afterPath="$PROJECT_DIR$/../tutorial.05/review/kpaf.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/review/review.zip" afterPath="$PROJECT_DIR$/../tutorial.05/review/review.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/tutorial/kpaf.jpg" afterPath="$PROJECT_DIR$/../tutorial.05/tutorial/kpaf.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/tutorial/tutorial.zip" afterPath="$PROJECT_DIR$/../tutorial.05/tutorial/tutorial.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case1/case1.zip" afterPath="$PROJECT_DIR$/../tutorial.06/case1/case1.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case1/go.png" afterPath="$PROJECT_DIR$/../tutorial.06/case1/go.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case1/sblogo.jpg" afterPath="$PROJECT_DIR$/../tutorial.06/case1/sblogo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case1/stop.png" afterPath="$PROJECT_DIR$/../tutorial.06/case1/stop.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case2/diners.png" afterPath="$PROJECT_DIR$/../tutorial.06/case2/diners.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case2/discover.png" afterPath="$PROJECT_DIR$/../tutorial.06/case2/discover.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case2/go.png" afterPath="$PROJECT_DIR$/../tutorial.06/case2/go.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case2/master.png" afterPath="$PROJECT_DIR$/../tutorial.06/case2/master.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case2/sbback.png" afterPath="$PROJECT_DIR$/../tutorial.06/case2/sbback.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case2/sblogo.png" afterPath="$PROJECT_DIR$/../tutorial.06/case2/sblogo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case2/stop.png" afterPath="$PROJECT_DIR$/../tutorial.06/case2/stop.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case2/visa.png" afterPath="$PROJECT_DIR$/../tutorial.06/case2/visa.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case3/back.png" afterPath="$PROJECT_DIR$/../tutorial.06/case3/back.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case3/wmlogo.png" afterPath="$PROJECT_DIR$/../tutorial.06/case3/wmlogo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case4/go.png" afterPath="$PROJECT_DIR$/../tutorial.06/case4/go.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case4/mclogo.jpg" afterPath="$PROJECT_DIR$/../tutorial.06/case4/mclogo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case4/stop.png" afterPath="$PROJECT_DIR$/../tutorial.06/case4/stop.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/review/delivery.png" afterPath="$PROJECT_DIR$/../tutorial.06/review/delivery.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/review/full.png" afterPath="$PROJECT_DIR$/../tutorial.06/review/full.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/review/left.png" afterPath="$PROJECT_DIR$/../tutorial.06/review/left.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/review/none.png" afterPath="$PROJECT_DIR$/../tutorial.06/review/none.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/review/okay.png" afterPath="$PROJECT_DIR$/../tutorial.06/review/okay.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/review/redball.png" afterPath="$PROJECT_DIR$/../tutorial.06/review/redball.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/review/review.zip" afterPath="$PROJECT_DIR$/../tutorial.06/review/review.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/review/right.png" afterPath="$PROJECT_DIR$/../tutorial.06/review/right.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/review/sizes.png" afterPath="$PROJECT_DIR$/../tutorial.06/review/sizes.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/review/warning.png" afterPath="$PROJECT_DIR$/../tutorial.06/review/warning.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/tutorial/customer.png" afterPath="$PROJECT_DIR$/../tutorial.06/tutorial/customer.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/tutorial/go.png" afterPath="$PROJECT_DIR$/../tutorial.06/tutorial/go.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/tutorial/redball.png" afterPath="$PROJECT_DIR$/../tutorial.06/tutorial/redball.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/tutorial/stop.png" afterPath="$PROJECT_DIR$/../tutorial.06/tutorial/stop.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/tutorial/tutorial.zip" afterPath="$PROJECT_DIR$/../tutorial.06/tutorial/tutorial.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case1/case1.zip" afterPath="$PROJECT_DIR$/../tutorial.07/case1/case1.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case1/devotion.mp3" afterPath="$PROJECT_DIR$/../tutorial.07/case1/devotion.mp3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case1/devotion.ogg" afterPath="$PROJECT_DIR$/../tutorial.07/case1/devotion.ogg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case1/devotion.swf" afterPath="$PROJECT_DIR$/../tutorial.07/case1/devotion.swf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case1/fireice.mp3" afterPath="$PROJECT_DIR$/../tutorial.07/case1/fireice.mp3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case1/fireice.ogg" afterPath="$PROJECT_DIR$/../tutorial.07/case1/fireice.ogg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case1/fireice.swf" afterPath="$PROJECT_DIR$/../tutorial.07/case1/fireice.swf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case1/rfback.png" afterPath="$PROJECT_DIR$/../tutorial.07/case1/rfback.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case1/rflogo.gif" afterPath="$PROJECT_DIR$/../tutorial.07/case1/rflogo.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case2/rwlogo.jpg" afterPath="$PROJECT_DIR$/../tutorial.07/case2/rwlogo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case2/trailridge.mp4" afterPath="$PROJECT_DIR$/../tutorial.07/case2/trailridge.mp4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case2/trailridge.swf" afterPath="$PROJECT_DIR$/../tutorial.07/case2/trailridge.swf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case2/trailridge.webm" afterPath="$PROJECT_DIR$/../tutorial.07/case2/trailridge.webm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case3/Cmplx.class" afterPath="$PROJECT_DIR$/../tutorial.07/case3/Cmplx.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case3/Controls.class" afterPath="$PROJECT_DIR$/../tutorial.07/case3/Controls.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case3/FracPanel.class" afterPath="$PROJECT_DIR$/../tutorial.07/case3/FracPanel.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case3/Mandel.class" afterPath="$PROJECT_DIR$/../tutorial.07/case3/Mandel.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case3/fback.jpg" afterPath="$PROJECT_DIR$/../tutorial.07/case3/fback.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case3/flogo.jpg" afterPath="$PROJECT_DIR$/../tutorial.07/case3/flogo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case3/mandel.mp4" afterPath="$PROJECT_DIR$/../tutorial.07/case3/mandel.mp4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case3/mandel.swf" afterPath="$PROJECT_DIR$/../tutorial.07/case3/mandel.swf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case3/mandel.webm" afterPath="$PROJECT_DIR$/../tutorial.07/case3/mandel.webm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case3/zoom.png" afterPath="$PROJECT_DIR$/../tutorial.07/case3/zoom.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case4/CreditRoll.class" afterPath="$PROJECT_DIR$/../tutorial.07/case4/CreditRoll.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case4/beethoven.mp3" afterPath="$PROJECT_DIR$/../tutorial.07/case4/beethoven.mp3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case4/beethoven.ogg" afterPath="$PROJECT_DIR$/../tutorial.07/case4/beethoven.ogg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case4/beethoven.swf" afterPath="$PROJECT_DIR$/../tutorial.07/case4/beethoven.swf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case4/byso.jpg" afterPath="$PROJECT_DIR$/../tutorial.07/case4/byso.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case4/bysologo.jpg" afterPath="$PROJECT_DIR$/../tutorial.07/case4/bysologo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/review/CreditRoll.class" afterPath="$PROJECT_DIR$/../tutorial.07/review/CreditRoll.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/review/fa1.gif" afterPath="$PROJECT_DIR$/../tutorial.07/review/fa1.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/review/fa2.gif" afterPath="$PROJECT_DIR$/../tutorial.07/review/fa2.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/review/fa3.gif" afterPath="$PROJECT_DIR$/../tutorial.07/review/fa3.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/review/fa4.gif" afterPath="$PROJECT_DIR$/../tutorial.07/review/fa4.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/review/fa5.gif" afterPath="$PROJECT_DIR$/../tutorial.07/review/fa5.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/review/fasong.mp3" afterPath="$PROJECT_DIR$/../tutorial.07/review/fasong.mp3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/review/fasong.ogg" afterPath="$PROJECT_DIR$/../tutorial.07/review/fasong.ogg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/review/fasong.swf" afterPath="$PROJECT_DIR$/../tutorial.07/review/fasong.swf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/review/hatrack.mp4" afterPath="$PROJECT_DIR$/../tutorial.07/review/hatrack.mp4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/review/hatrack.swf" afterPath="$PROJECT_DIR$/../tutorial.07/review/hatrack.swf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/review/hatrack.webm" afterPath="$PROJECT_DIR$/../tutorial.07/review/hatrack.webm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/review/jplogo.png" afterPath="$PROJECT_DIR$/../tutorial.07/review/jplogo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/review/popcorn.jpg" afterPath="$PROJECT_DIR$/../tutorial.07/review/popcorn.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/review/review.zip" afterPath="$PROJECT_DIR$/../tutorial.07/review/review.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/review/threestars.jpg" afterPath="$PROJECT_DIR$/../tutorial.07/review/threestars.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/tutorial/CreditRoll.class" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/CreditRoll.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/tutorial/astaire1.png" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/astaire1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/tutorial/astaire2.png" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/astaire2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/tutorial/astaire3.png" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/astaire3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/tutorial/dance.png" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/dance.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/tutorial/jplogo.png" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/jplogo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/tutorial/overture.mp3" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/overture.mp3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/tutorial/overture.ogg" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/overture.ogg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/tutorial/popcorn.jpg" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/popcorn.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/tutorial/rwdance.mp4" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/rwdance.mp4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/tutorial/rwdance.swf" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/rwdance.swf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/tutorial/rwdance.webm" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/rwdance.webm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/tutorial/threestars.jpg" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/threestars.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/tutorial/tutorial.zip" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/tutorial.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case1/dw.png" afterPath="$PROJECT_DIR$/case1/dw.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case1/halfstar.png" afterPath="$PROJECT_DIR$/case1/halfstar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case1/star.png" afterPath="$PROJECT_DIR$/case1/star.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case1/torte.jpg" afterPath="$PROJECT_DIR$/case1/torte.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/arrow.png" afterPath="$PROJECT_DIR$/case2/arrow.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/gray.png" afterPath="$PROJECT_DIR$/case2/gray.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/hole01.jpg" afterPath="$PROJECT_DIR$/case2/hole01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/hole02.jpg" afterPath="$PROJECT_DIR$/case2/hole02.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/hole03.jpg" afterPath="$PROJECT_DIR$/case2/hole03.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/hole04.jpg" afterPath="$PROJECT_DIR$/case2/hole04.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/hole05.jpg" afterPath="$PROJECT_DIR$/case2/hole05.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/hole06.jpg" afterPath="$PROJECT_DIR$/case2/hole06.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/hole07.jpg" afterPath="$PROJECT_DIR$/case2/hole07.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/hole08.jpg" afterPath="$PROJECT_DIR$/case2/hole08.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/hole09.jpg" afterPath="$PROJECT_DIR$/case2/hole09.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/hole10.jpg" afterPath="$PROJECT_DIR$/case2/hole10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/hole11.jpg" afterPath="$PROJECT_DIR$/case2/hole11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/hole12.jpg" afterPath="$PROJECT_DIR$/case2/hole12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/hole13.jpg" afterPath="$PROJECT_DIR$/case2/hole13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/hole14.jpg" afterPath="$PROJECT_DIR$/case2/hole14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/hole15.jpg" afterPath="$PROJECT_DIR$/case2/hole15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/hole16.jpg" afterPath="$PROJECT_DIR$/case2/hole16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/hole17.jpg" afterPath="$PROJECT_DIR$/case2/hole17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/hole18.jpg" afterPath="$PROJECT_DIR$/case2/hole18.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/wcback.png" afterPath="$PROJECT_DIR$/case2/wcback.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/willet.jpg" afterPath="$PROJECT_DIR$/case2/willet.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/willet.png" afterPath="$PROJECT_DIR$/case2/willet.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case3/m01.jpg" afterPath="$PROJECT_DIR$/case3/m01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case3/m13.jpg" afterPath="$PROJECT_DIR$/case3/m13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case3/m16.jpg" afterPath="$PROJECT_DIR$/case3/m16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case3/m20.jpg" afterPath="$PROJECT_DIR$/case3/m20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case3/m27.jpg" afterPath="$PROJECT_DIR$/case3/m27.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case3/m31.jpg" afterPath="$PROJECT_DIR$/case3/m31.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case3/messier.png" afterPath="$PROJECT_DIR$/case3/messier.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case3/skyweb.png" afterPath="$PROJECT_DIR$/case3/skyweb.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case4/brlogo.png" afterPath="$PROJECT_DIR$/case4/brlogo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case4/img01.jpg" afterPath="$PROJECT_DIR$/case4/img01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case4/img02.jpg" afterPath="$PROJECT_DIR$/case4/img02.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case4/img03.jpg" afterPath="$PROJECT_DIR$/case4/img03.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case4/img04.jpg" afterPath="$PROJECT_DIR$/case4/img04.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case4/img05.jpg" afterPath="$PROJECT_DIR$/case4/img05.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case4/img06.jpg" afterPath="$PROJECT_DIR$/case4/img06.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case4/img07.jpg" afterPath="$PROJECT_DIR$/case4/img07.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case4/img08.jpg" afterPath="$PROJECT_DIR$/case4/img08.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case4/img09.jpg" afterPath="$PROJECT_DIR$/case4/img09.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/cengage.jpg" afterPath="$PROJECT_DIR$/demo/cengage.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/demo.gif" afterPath="$PROJECT_DIR$/demo/demo.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/demo2.gif" afterPath="$PROJECT_DIR$/demo/demo2.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/filter.png" afterPath="$PROJECT_DIR$/demo/filter.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/family.png" afterPath="$PROJECT_DIR$/review/family.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/link01.png" afterPath="$PROJECT_DIR$/review/link01.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/link02.png" afterPath="$PROJECT_DIR$/review/link02.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/link03.png" afterPath="$PROJECT_DIR$/review/link03.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/link04.png" afterPath="$PROJECT_DIR$/review/link04.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/link05.png" afterPath="$PROJECT_DIR$/review/link05.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/link06.png" afterPath="$PROJECT_DIR$/review/link06.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/link07.png" afterPath="$PROJECT_DIR$/review/link07.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/link08.png" afterPath="$PROJECT_DIR$/review/link08.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/paper.png" afterPath="$PROJECT_DIR$/review/paper.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/tblogo.png" afterPath="$PROJECT_DIR$/review/tblogo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/tblogo_sm.png" afterPath="$PROJECT_DIR$/review/tblogo_sm.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/borderimg.png" afterPath="$PROJECT_DIR$/tutorial/borderimg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/dubcek.png" afterPath="$PROJECT_DIR$/tutorial/dubcek.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/graybar.png" afterPath="$PROJECT_DIR$/tutorial/graybar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/photo1.png" afterPath="$PROJECT_DIR$/tutorial/photo1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/photo2.png" afterPath="$PROJECT_DIR$/tutorial/photo2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/photo3.png" afterPath="$PROJECT_DIR$/tutorial/photo3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/photo4.png" afterPath="$PROJECT_DIR$/tutorial/photo4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/photo5.png" afterPath="$PROJECT_DIR$/tutorial/photo5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/tblogo.png" afterPath="$PROJECT_DIR$/tutorial/tblogo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/tblogo_sm.png" afterPath="$PROJECT_DIR$/tutorial/tblogo_sm.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/HTML.iml" afterPath="$PROJECT_DIR$/../.idea/HTML.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/modules.xml" afterPath="$PROJECT_DIR$/../.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HTML notes.txt" afterPath="$PROJECT_DIR$/../HTML notes.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../README.md" afterPath="$PROJECT_DIR$/../README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Web Page/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Web Page/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Web Page/darkroom.css" afterPath="$PROJECT_DIR$/../Web Page/darkroom.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Web Page/default.htm" afterPath="$PROJECT_DIR$/../Web Page/default.htm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Web Page/index.html" afterPath="$PROJECT_DIR$/../Web Page/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/__MACOSX/case1/._mhstyles.css" afterPath="$PROJECT_DIR$/../tutorial.01/__MACOSX/case1/._mhstyles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/__MACOSX/case1/._mhtxt.htm" afterPath="$PROJECT_DIR$/../tutorial.01/__MACOSX/case1/._mhtxt.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/__MACOSX/case1/._modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.01/__MACOSX/case1/._modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/__MACOSX/review/._basicstyles.css" afterPath="$PROJECT_DIR$/../tutorial.01/__MACOSX/review/._basicstyles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/__MACOSX/review/._modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.01/__MACOSX/review/._modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/__MACOSX/review/._stick.txt" afterPath="$PROJECT_DIR$/../tutorial.01/__MACOSX/review/._stick.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/__MACOSX/tutorial/._jpsstyles.css" afterPath="$PROJECT_DIR$/../tutorial.01/__MACOSX/tutorial/._jpsstyles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/__MACOSX/tutorial/._modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.01/__MACOSX/tutorial/._modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/case1/mathhigh.html" afterPath="$PROJECT_DIR$/../tutorial.01/case1/mathhigh.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/case1/mhstyles.css" afterPath="$PROJECT_DIR$/../tutorial.01/case1/mhstyles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/case1/mhtxt.htm" afterPath="$PROJECT_DIR$/../tutorial.01/case1/mhtxt.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/case1/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.01/case1/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/review/basic.html" afterPath="$PROJECT_DIR$/../tutorial.01/review/basic.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/review/basicstyles.css" afterPath="$PROJECT_DIR$/../tutorial.01/review/basicstyles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/review/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.01/review/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/review/stick.txt" afterPath="$PROJECT_DIR$/../tutorial.01/review/stick.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/tutorial/jprop.htm" afterPath="$PROJECT_DIR$/../tutorial.01/tutorial/jprop.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/tutorial/jpsstyles.css" afterPath="$PROJECT_DIR$/../tutorial.01/tutorial/jpsstyles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/tutorial/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.01/tutorial/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/unit1-2.html" afterPath="$PROJECT_DIR$/../tutorial.01/unit1-2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/unit1.html" afterPath="$PROJECT_DIR$/../tutorial.01/unit1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Case 2/__MACOSX/case1/._colleges.txt" afterPath="$PROJECT_DIR$/../tutorial.02/Case 2/__MACOSX/case1/._colleges.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Case 2/__MACOSX/case1/._hestyles.css" afterPath="$PROJECT_DIR$/../tutorial.02/Case 2/__MACOSX/case1/._hestyles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Case 2/__MACOSX/case1/._modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.02/Case 2/__MACOSX/case1/._modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Case 2/__MACOSX/case1/._uwlisttxt.htm" afterPath="$PROJECT_DIR$/../tutorial.02/Case 2/__MACOSX/case1/._uwlisttxt.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Case 2/case1/colleges.txt" afterPath="$PROJECT_DIR$/../tutorial.02/Case 2/case1/colleges.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Case 2/case1/hestyles.css" afterPath="$PROJECT_DIR$/../tutorial.02/Case 2/case1/hestyles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Case 2/case1/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.02/Case 2/case1/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Case 2/case1/uwlisttxt.htm" afterPath="$PROJECT_DIR$/../tutorial.02/Case 2/case1/uwlisttxt.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._camhome.htm" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._camhome.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._childtxt.htm" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._childtxt.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._constyles.css" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._constyles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._contesttxt.htm" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._contesttxt.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._flowertxt.htm" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._flowertxt.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._photogloss.htm" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._photogloss.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._scenictxt.htm" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._scenictxt.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._tipweek.htm" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/__MACOSX/review/._tipweek.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review/camhome.htm" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review/camhome.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review/childtxt.htm" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review/childtxt.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review/constyles.css" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review/constyles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review/contesttxt.htm" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review/contesttxt.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review/flowertxt.htm" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review/flowertxt.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review/photogloss.htm" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review/photogloss.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review/scenictxt.htm" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review/scenictxt.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/Review 2/review/tipweek.htm" afterPath="$PROJECT_DIR$/../tutorial.02/Review 2/review/tipweek.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/__MACOSX/tutorial/._camstyles.css" afterPath="$PROJECT_DIR$/../tutorial.02/__MACOSX/tutorial/._camstyles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/__MACOSX/tutorial/._glosstxt.htm" afterPath="$PROJECT_DIR$/../tutorial.02/__MACOSX/tutorial/._glosstxt.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/__MACOSX/tutorial/._hometxt.htm" afterPath="$PROJECT_DIR$/../tutorial.02/__MACOSX/tutorial/._hometxt.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/__MACOSX/tutorial/._modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.02/__MACOSX/tutorial/._modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/__MACOSX/tutorial/._tipstxt.htm" afterPath="$PROJECT_DIR$/../tutorial.02/__MACOSX/tutorial/._tipstxt.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/camstyles.css" afterPath="$PROJECT_DIR$/../tutorial.02/camstyles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/glosstxt.htm" afterPath="$PROJECT_DIR$/../tutorial.02/glosstxt.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/hometxt.htm" afterPath="$PROJECT_DIR$/../tutorial.02/hometxt.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.02/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.02/tipstxt.htm" afterPath="$PROJECT_DIR$/../tutorial.02/tipstxt.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../tutorial.03/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/.idea/modules.xml" afterPath="$PROJECT_DIR$/../tutorial.03/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/.idea/tutorial.03.iml" afterPath="$PROJECT_DIR$/../tutorial.03/.idea/tutorial.03.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../tutorial.03/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case1/.idea/case1.iml" afterPath="$PROJECT_DIR$/../tutorial.03/case1/.idea/case1.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case1/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/../tutorial.03/case1/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case1/.idea/inspectionProfiles/profiles_settings.xml" afterPath="$PROJECT_DIR$/../tutorial.03/case1/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case1/.idea/modules.xml" afterPath="$PROJECT_DIR$/../tutorial.03/case1/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../tutorial.03/case1/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case1/algo.htm" afterPath="$PROJECT_DIR$/../tutorial.03/case1/algo.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case1/c_layout.css" afterPath="$PROJECT_DIR$/../tutorial.03/case1/c_layout.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case1/c_styles.css" afterPath="$PROJECT_DIR$/../tutorial.03/case1/c_styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case1/crypt.htm" afterPath="$PROJECT_DIR$/../tutorial.03/case1/crypt.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case1/enigma.htm" afterPath="$PROJECT_DIR$/../tutorial.03/case1/enigma.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case1/history.htm" afterPath="$PROJECT_DIR$/../tutorial.03/case1/history.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case1/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.03/case1/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case1/public.htm" afterPath="$PROJECT_DIR$/../tutorial.03/case1/public.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case1/single.htm" afterPath="$PROJECT_DIR$/../tutorial.03/case1/single.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case2/bmtourtxt.htm" afterPath="$PROJECT_DIR$/../tutorial.03/case2/bmtourtxt.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case2/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.03/case2/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case2/mw_layout.css" afterPath="$PROJECT_DIR$/../tutorial.03/case2/mw_layout.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case2/mw_stylestxt.css" afterPath="$PROJECT_DIR$/../tutorial.03/case2/mw_stylestxt.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case3/civilwartxt.htm" afterPath="$PROJECT_DIR$/../tutorial.03/case3/civilwartxt.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case3/cw_layout.css" afterPath="$PROJECT_DIR$/../tutorial.03/case3/cw_layout.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case3/cw_stylestxt.css" afterPath="$PROJECT_DIR$/../tutorial.03/case3/cw_stylestxt.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case3/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.03/case3/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case4/choirtxt.htm" afterPath="$PROJECT_DIR$/../tutorial.03/case4/choirtxt.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case4/gcc_layout.css" afterPath="$PROJECT_DIR$/../tutorial.03/case4/gcc_layout.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case4/gcc_stylestxt.css" afterPath="$PROJECT_DIR$/../tutorial.03/case4/gcc_stylestxt.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case4/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.03/case4/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case4/nobile-webfont.svg" afterPath="$PROJECT_DIR$/../tutorial.03/case4/nobile-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/case4/nobile.txt" afterPath="$PROJECT_DIR$/../tutorial.03/case4/nobile.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/demo/demo_color_names.htm" afterPath="$PROJECT_DIR$/../tutorial.03/demo/demo_color_names.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/demo/demo_css.htm" afterPath="$PROJECT_DIR$/../tutorial.03/demo/demo_css.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/review/.idea/modules.xml" afterPath="$PROJECT_DIR$/../tutorial.03/review/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/review/.idea/review.iml" afterPath="$PROJECT_DIR$/../tutorial.03/review/.idea/review.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/review/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../tutorial.03/review/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/review/CloisterBlack.svg" afterPath="$PROJECT_DIR$/../tutorial.03/review/CloisterBlack.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/review/CloisterBlack.txt" afterPath="$PROJECT_DIR$/../tutorial.03/review/CloisterBlack.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/review/holiday.htm" afterPath="$PROJECT_DIR$/../tutorial.03/review/holiday.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/review/hs_layout.css" afterPath="$PROJECT_DIR$/../tutorial.03/review/hs_layout.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/review/hs_styles.css" afterPath="$PROJECT_DIR$/../tutorial.03/review/hs_styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/review/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.03/review/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/tutorial/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../tutorial.03/tutorial/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/tutorial/.idea/modules.xml" afterPath="$PROJECT_DIR$/../tutorial.03/tutorial/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/tutorial/.idea/tutorial.iml" afterPath="$PROJECT_DIR$/../tutorial.03/tutorial/.idea/tutorial.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/tutorial/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../tutorial.03/tutorial/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/tutorial/haunted.htm" afterPath="$PROJECT_DIR$/../tutorial.03/tutorial/haunted.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/tutorial/home.htm" afterPath="$PROJECT_DIR$/../tutorial.03/tutorial/home.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/tutorial/maze.htm" afterPath="$PROJECT_DIR$/../tutorial.03/tutorial/maze.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/tutorial/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.03/tutorial/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/tutorial/nobile-webfont.svg" afterPath="$PROJECT_DIR$/../tutorial.03/tutorial/nobile-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/tutorial/nobile.txt" afterPath="$PROJECT_DIR$/../tutorial.03/tutorial/nobile.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/tutorial/petting.htm" afterPath="$PROJECT_DIR$/../tutorial.03/tutorial/petting.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/tutorial/produce.htm" afterPath="$PROJECT_DIR$/../tutorial.03/tutorial/produce.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/tutorial/sa_layout.css" afterPath="$PROJECT_DIR$/../tutorial.03/tutorial/sa_layout.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.03/tutorial/sa_styles.css" afterPath="$PROJECT_DIR$/../tutorial.03/tutorial/sa_styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/.idea/modules.xml" afterPath="$PROJECT_DIR$/../tutorial.04/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/.idea/tutorial.04.iml" afterPath="$PROJECT_DIR$/../tutorial.04/.idea/tutorial.04.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../tutorial.04/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case1/.idea/case1.iml" afterPath="$PROJECT_DIR$/../tutorial.04/case1/.idea/case1.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case1/.idea/modules.xml" afterPath="$PROJECT_DIR$/../tutorial.04/case1/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../tutorial.04/case1/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case1/history.css" afterPath="$PROJECT_DIR$/../tutorial.04/case1/history.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case1/lincoln.htm" afterPath="$PROJECT_DIR$/../tutorial.04/case1/lincoln.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case1/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.04/case1/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case2/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.04/case2/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case2/pizzatxt.css" afterPath="$PROJECT_DIR$/../tutorial.04/case2/pizzatxt.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case2/redballtxt.htm" afterPath="$PROJECT_DIR$/../tutorial.04/case2/redballtxt.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case3/longstxt.htm" afterPath="$PROJECT_DIR$/../tutorial.04/case3/longstxt.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case3/maptxt.css" afterPath="$PROJECT_DIR$/../tutorial.04/case3/maptxt.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case3/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.04/case3/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case4/address.txt" afterPath="$PROJECT_DIR$/../tutorial.04/case4/address.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case4/links1.txt" afterPath="$PROJECT_DIR$/../tutorial.04/case4/links1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case4/links2.txt" afterPath="$PROJECT_DIR$/../tutorial.04/case4/links2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case4/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.04/case4/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case4/papertxt.css" afterPath="$PROJECT_DIR$/../tutorial.04/case4/papertxt.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case4/parktxt.htm" afterPath="$PROJECT_DIR$/../tutorial.04/case4/parktxt.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case4/story1.txt" afterPath="$PROJECT_DIR$/../tutorial.04/case4/story1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case4/story2.txt" afterPath="$PROJECT_DIR$/../tutorial.04/case4/story2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case4/story3.txt" afterPath="$PROJECT_DIR$/../tutorial.04/case4/story3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/case4/story4.txt" afterPath="$PROJECT_DIR$/../tutorial.04/case4/story4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/demo/demo_positioning.htm" afterPath="$PROJECT_DIR$/../tutorial.04/demo/demo_positioning.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/review/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/../tutorial.04/review/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/review/.idea/inspectionProfiles/profiles_settings.xml" afterPath="$PROJECT_DIR$/../tutorial.04/review/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/review/.idea/modules.xml" afterPath="$PROJECT_DIR$/../tutorial.04/review/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/review/.idea/review.iml" afterPath="$PROJECT_DIR$/../tutorial.04/review/.idea/review.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/review/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../tutorial.04/review/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/review/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.04/review/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/review/race.css" afterPath="$PROJECT_DIR$/../tutorial.04/review/race.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/review/rose.htm" afterPath="$PROJECT_DIR$/../tutorial.04/review/rose.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/tutorial/.idea/modules.xml" afterPath="$PROJECT_DIR$/../tutorial.04/tutorial/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/tutorial/.idea/tutorial.iml" afterPath="$PROJECT_DIR$/../tutorial.04/tutorial/.idea/tutorial.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/tutorial/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../tutorial.04/tutorial/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/tutorial/cp_reset.css" afterPath="$PROJECT_DIR$/../tutorial.04/tutorial/cp_reset.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/tutorial/cp_styles.css" afterPath="$PROJECT_DIR$/../tutorial.04/tutorial/cp_styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/tutorial/cycle.htm" afterPath="$PROJECT_DIR$/../tutorial.04/tutorial/cycle.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.04/tutorial/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.04/tutorial/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/.idea/modules.xml" afterPath="$PROJECT_DIR$/../tutorial.05/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/.idea/tutorial.05.iml" afterPath="$PROJECT_DIR$/../tutorial.05/.idea/tutorial.05.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../tutorial.05/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case1/jpf.css" afterPath="$PROJECT_DIR$/../tutorial.05/case1/jpf.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case1/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.05/case1/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case1/stable.css" afterPath="$PROJECT_DIR$/../tutorial.05/case1/stable.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case1/sudoku.htm" afterPath="$PROJECT_DIR$/../tutorial.05/case1/sudoku.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case2/caltxt.css" afterPath="$PROJECT_DIR$/../tutorial.05/case2/caltxt.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case2/ccc.css" afterPath="$PROJECT_DIR$/../tutorial.05/case2/ccc.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case2/febtxt.htm" afterPath="$PROJECT_DIR$/../tutorial.05/case2/febtxt.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case2/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.05/case2/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case3/dhometxt.htm" afterPath="$PROJECT_DIR$/../tutorial.05/case3/dhometxt.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case3/dome.css" afterPath="$PROJECT_DIR$/../tutorial.05/case3/dome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case3/dtabletxt.css" afterPath="$PROJECT_DIR$/../tutorial.05/case3/dtabletxt.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case3/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.05/case3/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case4/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.05/case4/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/case4/rooms.txt" afterPath="$PROJECT_DIR$/../tutorial.05/case4/rooms.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/review/kpaf2.css" afterPath="$PROJECT_DIR$/../tutorial.05/review/kpaf2.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/review/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.05/review/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/review/morning.htm" afterPath="$PROJECT_DIR$/../tutorial.05/review/morning.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/review/programs.css" afterPath="$PROJECT_DIR$/../tutorial.05/review/programs.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/tutorial/kpaf.css" afterPath="$PROJECT_DIR$/../tutorial.05/tutorial/kpaf.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/tutorial/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.05/tutorial/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/tutorial/schedule.htm" afterPath="$PROJECT_DIR$/../tutorial.05/tutorial/schedule.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.05/tutorial/tables.css" afterPath="$PROJECT_DIR$/../tutorial.05/tutorial/tables.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/.idea/modules.xml" afterPath="$PROJECT_DIR$/../tutorial.06/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/.idea/tutorial.06.iml" afterPath="$PROJECT_DIR$/../tutorial.06/.idea/tutorial.06.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../tutorial.06/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../tutorial.06/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case1/blog.css" afterPath="$PROJECT_DIR$/../tutorial.06/case1/blog.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case1/comments.css" afterPath="$PROJECT_DIR$/../tutorial.06/case1/comments.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case1/formsubmit.js" afterPath="$PROJECT_DIR$/../tutorial.06/case1/formsubmit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case1/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.06/case1/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case1/sblogger.htm" afterPath="$PROJECT_DIR$/../tutorial.06/case1/sblogger.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case2/formsubmit.js" afterPath="$PROJECT_DIR$/../tutorial.06/case2/formsubmit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case2/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.06/case2/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case2/paytxt.css" afterPath="$PROJECT_DIR$/../tutorial.06/case2/paytxt.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case2/regex.txt" afterPath="$PROJECT_DIR$/../tutorial.06/case2/regex.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case2/sb.css" afterPath="$PROJECT_DIR$/../tutorial.06/case2/sb.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case2/spicetxt.htm" afterPath="$PROJECT_DIR$/../tutorial.06/case2/spicetxt.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case2/state.txt" afterPath="$PROJECT_DIR$/../tutorial.06/case2/state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case3/cssdemotxt.htm" afterPath="$PROJECT_DIR$/../tutorial.06/case3/cssdemotxt.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case3/cssforms.css" afterPath="$PROJECT_DIR$/../tutorial.06/case3/cssforms.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case3/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.06/case3/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case3/rundemo.js" afterPath="$PROJECT_DIR$/../tutorial.06/case3/rundemo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case3/wm.css" afterPath="$PROJECT_DIR$/../tutorial.06/case3/wm.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case4/formsubmit.js" afterPath="$PROJECT_DIR$/../tutorial.06/case4/formsubmit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/case4/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.06/case4/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/review/formsubmit.js" afterPath="$PROJECT_DIR$/../tutorial.06/review/formsubmit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/review/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.06/review/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/review/order.htm" afterPath="$PROJECT_DIR$/../tutorial.06/review/order.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/review/pizza.css" afterPath="$PROJECT_DIR$/../tutorial.06/review/pizza.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/review/redball.css" afterPath="$PROJECT_DIR$/../tutorial.06/review/redball.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/review/regex.txt" afterPath="$PROJECT_DIR$/../tutorial.06/review/regex.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/tutorial/forms.css" afterPath="$PROJECT_DIR$/../tutorial.06/tutorial/forms.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/tutorial/formsubmit.js" afterPath="$PROJECT_DIR$/../tutorial.06/tutorial/formsubmit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/tutorial/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.06/tutorial/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/tutorial/rb.css" afterPath="$PROJECT_DIR$/../tutorial.06/tutorial/rb.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/tutorial/regex.txt" afterPath="$PROJECT_DIR$/../tutorial.06/tutorial/regex.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.06/tutorial/survey.htm" afterPath="$PROJECT_DIR$/../tutorial.06/tutorial/survey.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/.idea/modules.xml" afterPath="$PROJECT_DIR$/../tutorial.07/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/.idea/tutorial.07.iml" afterPath="$PROJECT_DIR$/../tutorial.07/.idea/tutorial.07.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../tutorial.07/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../tutorial.07/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case1/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.07/case1/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case1/poetry.css" afterPath="$PROJECT_DIR$/../tutorial.07/case1/poetry.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case1/rf.htm" afterPath="$PROJECT_DIR$/../tutorial.07/case1/rf.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case2/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.07/case2/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case2/roadtxt.htm" afterPath="$PROJECT_DIR$/../tutorial.07/case2/roadtxt.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case2/rw.css" afterPath="$PROJECT_DIR$/../tutorial.07/case2/rw.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case3/fractaltxt.htm" afterPath="$PROJECT_DIR$/../tutorial.07/case3/fractaltxt.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case3/fstyles.css" afterPath="$PROJECT_DIR$/../tutorial.07/case3/fstyles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case3/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.07/case3/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case4/bysoinfo.txt" afterPath="$PROJECT_DIR$/../tutorial.07/case4/bysoinfo.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case4/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.07/case4/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/case4/schedule.txt" afterPath="$PROJECT_DIR$/../tutorial.07/case4/schedule.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/review/astaire.htm" afterPath="$PROJECT_DIR$/../tutorial.07/review/astaire.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/review/embed.css" afterPath="$PROJECT_DIR$/../tutorial.07/review/embed.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/review/fabio.css" afterPath="$PROJECT_DIR$/../tutorial.07/review/fabio.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/review/filmlist.txt" afterPath="$PROJECT_DIR$/../tutorial.07/review/filmlist.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/review/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.07/review/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/tutorial/clips.css" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/clips.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/tutorial/creditlist.txt" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/creditlist.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/tutorial/jp.css" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/jp.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/tutorial/jumbo.htm" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/jumbo.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/tutorial/modernizr-1.5.js" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/tutorial.08.iml" afterPath="$PROJECT_DIR$/.idea/tutorial.08.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case1/dwbase.css" afterPath="$PROJECT_DIR$/case1/dwbase.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case1/dwlayout.css" afterPath="$PROJECT_DIR$/case1/dwlayout.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case1/modernizr-1.5.js" afterPath="$PROJECT_DIR$/case1/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/h01.htm" afterPath="$PROJECT_DIR$/case2/h01.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/h02.htm" afterPath="$PROJECT_DIR$/case2/h02.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/h03.htm" afterPath="$PROJECT_DIR$/case2/h03.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/h04.htm" afterPath="$PROJECT_DIR$/case2/h04.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/h05.htm" afterPath="$PROJECT_DIR$/case2/h05.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/h06.htm" afterPath="$PROJECT_DIR$/case2/h06.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/h07.htm" afterPath="$PROJECT_DIR$/case2/h07.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/h08.htm" afterPath="$PROJECT_DIR$/case2/h08.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/h09.htm" afterPath="$PROJECT_DIR$/case2/h09.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/h10.htm" afterPath="$PROJECT_DIR$/case2/h10.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/h11.htm" afterPath="$PROJECT_DIR$/case2/h11.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/h12.htm" afterPath="$PROJECT_DIR$/case2/h12.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/h13.htm" afterPath="$PROJECT_DIR$/case2/h13.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/h14.htm" afterPath="$PROJECT_DIR$/case2/h14.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/h15.htm" afterPath="$PROJECT_DIR$/case2/h15.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/h16.htm" afterPath="$PROJECT_DIR$/case2/h16.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/h17.htm" afterPath="$PROJECT_DIR$/case2/h17.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/h18.htm" afterPath="$PROJECT_DIR$/case2/h18.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/holes.css" afterPath="$PROJECT_DIR$/case2/holes.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/modernizr-1.5.js" afterPath="$PROJECT_DIR$/case2/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/wcbase.css" afterPath="$PROJECT_DIR$/case2/wcbase.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/wceffectstxt.css" afterPath="$PROJECT_DIR$/case2/wceffectstxt.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/wclayout.css" afterPath="$PROJECT_DIR$/case2/wclayout.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/wcmobiletxt.css" afterPath="$PROJECT_DIR$/case2/wcmobiletxt.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/willettxt.htm" afterPath="$PROJECT_DIR$/case2/willettxt.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case3/messtxt.htm" afterPath="$PROJECT_DIR$/case3/messtxt.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case3/modernizr-1.5.js" afterPath="$PROJECT_DIR$/case3/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case3/swbase.css" afterPath="$PROJECT_DIR$/case3/swbase.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case3/sweffectstxt.css" afterPath="$PROJECT_DIR$/case3/sweffectstxt.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case3/swlayout.css" afterPath="$PROJECT_DIR$/case3/swlayout.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case3/swprinttxt.css" afterPath="$PROJECT_DIR$/case3/swprinttxt.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case4/listing.txt" afterPath="$PROJECT_DIR$/case4/listing.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case4/modernizr-1.5.js" afterPath="$PROJECT_DIR$/case4/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/demo_box_shadows.htm" afterPath="$PROJECT_DIR$/demo/demo_box_shadows.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/demo_ie_filters.htm" afterPath="$PROJECT_DIR$/demo/demo_ie_filters.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/demo_linear_gradients.htm" afterPath="$PROJECT_DIR$/demo/demo_linear_gradients.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/demo_radial_gradients.htm" afterPath="$PROJECT_DIR$/demo/demo_radial_gradients.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/demo_repeat_linear_gradients.htm" afterPath="$PROJECT_DIR$/demo/demo_repeat_linear_gradients.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/demo_repeat_radial_gradients.htm" afterPath="$PROJECT_DIR$/demo/demo_repeat_radial_gradients.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/demo_text_shadows.htm" afterPath="$PROJECT_DIR$/demo/demo_text_shadows.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/demo_transformations.htm" afterPath="$PROJECT_DIR$/demo/demo_transformations.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/demo_transformations3d.htm" afterPath="$PROJECT_DIR$/demo/demo_transformations3d.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/dfbase.css" afterPath="$PROJECT_DIR$/review/dfbase.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/dflayout.css" afterPath="$PROJECT_DIR$/review/dflayout.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/modernizr-1.5.js" afterPath="$PROJECT_DIR$/review/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/base.css" afterPath="$PROJECT_DIR$/tutorial/base.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/landscape.txt" afterPath="$PROJECT_DIR$/tutorial/landscape.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/layout.css" afterPath="$PROJECT_DIR$/tutorial/layout.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/modernizr-1.5.js" afterPath="$PROJECT_DIR$/tutorial/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/portrait.txt" afterPath="$PROJECT_DIR$/tutorial/portrait.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/treebook.htm" afterPath="$PROJECT_DIR$/tutorial/treebook.htm" />
     </list>
     <ignored path="tutorial.08.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -237,17 +697,97 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+            <file leaf-file-name="effects.css" pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/tutorial/effects.css">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="515">
+                    <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="67" selection-end-column="70" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file leaf-file-name="dfeffects.css" pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/review/dfeffects.css">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="374">
+                    <caret line="22" column="15" selection-start-line="22" selection-start-column="0" selection-end-line="24" selection-end-column="47" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file leaf-file-name="dwprint.css" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/case1/dwprint.css">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="714">
+                    <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="tutorial.08" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="treebook.htm" pinned="false" current-in-tab="true">
+      <file leaf-file-name="treebook.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tutorial/treebook.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            <state relative-caret-position="306">
+              <caret line="30" column="50" selection-start-line="30" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="recipe.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case1/recipe.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="156" column="14" selection-start-line="156" selection-start-column="14" selection-end-line="156" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dweffects.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case1/dweffects.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="42" column="83" selection-start-line="42" selection-start-column="83" selection-end-line="42" selection-end-column="83" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mobile.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tutorial/mobile.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="841">
+              <caret line="57" column="20" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="print.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tutorial/print.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="15" column="7" selection-start-line="15" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -262,6 +802,26 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/tutorial/treebooktxt.htm" />
+        <option value="$PROJECT_DIR$/tutorial/mobiletxt.css" />
+        <option value="$PROJECT_DIR$/tutorial/effectstxt.css" />
+        <option value="$PROJECT_DIR$/tutorial/printtxt.css" />
+        <option value="$PROJECT_DIR$/tutorial/print.css" />
+        <option value="$PROJECT_DIR$/tutorial/treebook.htm" />
+        <option value="$PROJECT_DIR$/tutorial/mobile.css" />
+        <option value="$PROJECT_DIR$/review/dubcektxt.htm" />
+        <option value="$PROJECT_DIR$/review/dfeffectstxt.css" />
+        <option value="$PROJECT_DIR$/tutorial/effects.css" />
+        <option value="$PROJECT_DIR$/review/dfeffects.css" />
+        <option value="$PROJECT_DIR$/review/dfprinttxt.css" />
+        <option value="$PROJECT_DIR$/review/dfprint.css" />
+        <option value="$PROJECT_DIR$/review/dfmobiletxt.css" />
+        <option value="$PROJECT_DIR$/review/dfmobile.css" />
+        <option value="$PROJECT_DIR$/review/dubcek.htm" />
+        <option value="$PROJECT_DIR$/case1/dweffectstxt.css" />
+        <option value="$PROJECT_DIR$/case1/dweffects.css" />
+        <option value="$PROJECT_DIR$/case1/recipe.htm" />
+        <option value="$PROJECT_DIR$/case1/dwprinttxt.css" />
+        <option value="$PROJECT_DIR$/case1/dwprint.css" />
       </list>
     </option>
   </component>
@@ -273,9 +833,8 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="y" value="18" />
-    <option name="width" value="1032" />
-    <option name="height" value="1069" />
+    <option name="width" value="1294" />
+    <option name="height" value="1087" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -302,8 +861,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -335,18 +892,54 @@
               <option name="myItemId" value="tutorial.08" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="review" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial.08" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial.08" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial.08" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial.08" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="case1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Web Page" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.treebook.htm">
+  <component name="RunManager" selected="JavaScript Debug.recipe.htm">
     <configuration default="false" name="treebook.htm" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tutorial.08/tutorial/treebook.htm">
+      <method />
+    </configuration>
+    <configuration default="false" name="dubcek.htm" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tutorial.08/review/dubcek.htm">
+      <method />
+    </configuration>
+    <configuration default="false" name="recipe.htm" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tutorial.08/case1/recipe.htm">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -402,12 +995,16 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="1">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.treebook.htm" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.dubcek.htm" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.recipe.htm" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.treebook.htm" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.recipe.htm" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.treebook.htm" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.dubcek.htm" />
       </list>
     </recent_temporary>
   </component>
@@ -425,33 +1022,48 @@
       <option name="presentableId" value="Default" />
       <updated>1463636880336</updated>
       <workItem from="1463636881772" duration="813000" />
-      <workItem from="1463843161301" duration="253000" />
+      <workItem from="1463843161301" duration="622000" />
+      <workItem from="1463864367801" duration="598000" />
+      <workItem from="1463874922658" duration="1186000" />
+      <workItem from="1463955802958" duration="2963000" />
+      <workItem from="1463975173055" duration="1709000" />
+      <workItem from="1464336037910" duration="2419000" />
+      <workItem from="1464380374929" duration="5140000" />
+      <workItem from="1464462283180" duration="1826000" />
+      <workItem from="1464468882262" duration="1259000" />
+      <workItem from="1464475109099" duration="10134000" />
+      <workItem from="1464647076844" duration="464000" />
+      <workItem from="1464647580680" duration="1059000" />
+      <workItem from="1464658158856" duration="599000" />
+      <workItem from="1464665690427" duration="1081000" />
+      <workItem from="1464672046542" duration="4608000" />
+      <workItem from="1464756449233" duration="6263000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1066000" />
+    <option name="totallyTimeSpent" value="42743000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="18" width="1032" height="1069" extended-state="0" />
+    <frame x="-7" y="0" width="1294" height="1087" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24748491" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19585988" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39935413" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -470,6 +1082,281 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/review/dfbase.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/treebook.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="61" selection-start-line="29" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/mobile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="20" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/effects.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/print.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="68" column="1" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/dubcek.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/dfprint.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/dfmobile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/dflayout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/dfeffects.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/dfbase.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/treebook.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="62" selection-start-line="38" selection-start-column="62" selection-end-line="38" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/mobile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="20" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/effects.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/print.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="68" column="1" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/dubcek.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/dfprint.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/dfmobile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/dflayout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/dfeffects.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/dfbase.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/treebook.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/mobile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/effects.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/print.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="67" column="1" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/treebook.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/mobile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/effects.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/print.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/treebook.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/mobile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/effects.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/print.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/treebook.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/treebook.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/treebook.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tutorial/treebook.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -485,10 +1372,101 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/review/dfbase.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/dflayout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/dfmobile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="914">
+          <caret line="149" column="18" selection-start-line="149" selection-start-column="18" selection-end-line="149" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/dfprint.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/dubcek.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="81" selection-start-line="34" selection-start-column="81" selection-end-line="34" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/effects.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="67" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/dfeffects.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="15" selection-start-line="22" selection-start-column="0" selection-end-line="24" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case1/dweffects.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="83" selection-start-line="42" selection-start-column="83" selection-end-line="42" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tutorial/treebook.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        <state relative-caret-position="306">
+          <caret line="30" column="50" selection-start-line="30" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/mobile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="57" column="20" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case1/recipe.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="156" column="14" selection-start-line="156" selection-start-column="14" selection-end-line="156" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case1/dwprint.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/print.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
           <folding />
         </state>
       </provider>

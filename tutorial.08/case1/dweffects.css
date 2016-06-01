@@ -1,0 +1,46 @@
+/*
+   New Perspectives on HTML and CSS
+   Tutorial 8
+   Case Problem 1
+   Special Effects style sheet
+   Author: Martine Hernandez
+   Date:   05/28/16
+
+   Filename:         dweffects.css
+   Supporting Files: 
+
+*/
+
+body {
+    -moz-box-shadow: rgb(211, 211, 211) 10px 0px 15px, rgb(211, 211, 211) -10px 0px 15px ;
+    -webkit-box-shadow: rgb(211, 211, 211) 10px 0px 15px, rgb(211, 211, 211) -10px 0px 15px;
+    box-shadow: rgb(211, 211, 211,) 10px 0px 15px, rgb(211, 211, 211) -10px 0px 15px ;
+
+    /*opacity: 0.5;*/
+}
+
+nav.horizontal li {
+    background: rgb(224,238,238);
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+
+    -moz-box-shadow: inset rgba(255,255,255,0.3) 3px 3px 2px, rgba(147,207,207,0.3) 5px 5px 5px;
+    -webkit-box-shadow: inset rgba(255,255,255,0.3) 3px 3px 2px, rgba(147,207,207,0.3) 3px 3px 5px;
+    box-shadow: inset rgba(255,255,255,0.3) 3px 3px 2px, rgba(147,207,207,0.3) 5px 5px 5px;
+}
+
+article {
+    -moz-box-shadow: inset rgba(171,171,171,0.6) 15px 15px 75px,  rgba(101,101,101,0.6) 5px 5px 5px;
+    -webkit-box-shadow: inset rgba(171,171,171,0.6) 15px 15px 75px,  rgba(101,101,101,0.6) 5px 5px 5px;
+    box-shadow: inset rgba(171,171,171,0.6) 15px 15px 75px,  rgba(101,101,101,0.6) 5px 5px 5px;
+}
+
+blockquote {  /* LEFT OFF HERE */
+    background: -o-linear-gradient(left, rgb(166, 230, 230) 5%, rgb(231, 231, 231)), rgb(255,255,255) 15%;
+    background: -ms-linear-gradient(left, #DEF4F4, #FFFFFF);
+    background: -moz-linear-gradient(left, rgb(166,230,230) 5%, rgb(231,231,231)), rgb(255,255,255) 15%;
+    background: -webkit-linear-gradient(left, rgb(166,230,230) 5%, rgb(231,231,231), rgb(255,255,255) 33%);
+    background: linear-gradient(left, rgb(166,230,230) 5%, rgb(231,231,231) 5%, rgb(255,255,255) 15%);
+}
+

@@ -1,0 +1,60 @@
+/*
+   New Perspectives on HTML and CSS
+   Tutorial 8
+   Tutorial Case
+
+   Mobile Styles
+   Author: Martine Hernandez
+   Date:   05/22/16
+
+   Filename:         mobile.css
+   Supporting Files: tblogo_sm.png, portrait.txt, landscape.txt
+
+*/
+
+/* Hide Page elements that will not be displayed */
+header h1, header nav, section nav.vertical, footer {
+    display: none;
+}
+
+/* Header styles */
+header {
+    background: rgb(18,15,12) url(tblogo_sm.png) center center no-repeat;
+
+    -o-background-size: contain;
+    -moz-background-size: contain;
+    -webkit-background-size: contain;
+    background-size: contain;
+
+    height: 50px;
+    width: 100%;
+}
+
+/* Figure box caption styles */
+figure figcaption {
+    font-size: 12px;
+    text-align: center;
+}
+
+/* Mobile styles under portrait orientation */
+@media screen and (orientation: portrait) {
+    /* Main section navigation list styles */
+    section#main nav {
+        float: left;
+        width: 20%;
+    }
+    figure img {
+        width: 100%;
+    }
+}
+
+/* Mobile styles under landscape orientation */
+@media screen and (orientation: landscape) {
+    /* Main section navigation list styles */
+    section#main nav {
+        width: 100%;
+    }
+    figure img {
+        width: 100%;
+    }
+}

@@ -4,8 +4,8 @@
    Review Assignment
 
    Mobile Styles
-   Author: 
-   Date:   
+   Author: Martine Hernandez
+   Date:   05/28/16
 
    Filename:         dfmobile.css
    Supporting Files: tblogo_sm.png
@@ -117,12 +117,19 @@ section#page nav.horizontal li:first-of-type a {
    }
 
 
-
-
-
-
 /* Styles under portrait orientation */
-
+@media screen and (orientation: portrait)
+{
+   nav#familyLinks li {
+      display: block;
+      width: 40%;
+      margin-top: 5px;
+      margin-bottom: 5px;
+      margin-left: 5%;
+      margin-right: 5%;
+      float: left;
+   }
+}
 
 
 
@@ -131,7 +138,18 @@ section#page nav.horizontal li:first-of-type a {
 
 
 /* Styles under landscape orientation */
-
+@media screen and (orientation: landscape)
+{
+   nav#familyLinks li {
+      display: block;
+      width: 16%;
+      margin-top: 5px;
+      margin-bottom: 5px;
+      margin-right: 0.2%;
+      margin-right: 0.2%;
+      float: left;
+   }
+}
 
 
 

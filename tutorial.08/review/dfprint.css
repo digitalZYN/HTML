@@ -4,14 +4,18 @@
    Review Assignment
 
    Print Styles
-   Author: 
-   Date:   
+   Author: Martine Hernandez
+   Date:   05/28/16
 
    Filename:         dfprint.css
    Supporting Files: 
 
 */
 
+@page {
+   size: 8.5in 11in portrait;
+   margin: 0.5in;
+}
 
 /* Hide page elements that will not be printed */
 
@@ -48,8 +52,17 @@ nav#familyLinks li span {
    margin-left: 0.5in;
 }
 
-
-
-
 /* Setting the page breaks in the document */
+
+article {
+   display: block;
+   page-break-after: always;
+   page-break-inside: avoid;
+}
+
+nav#familyLinks li {
+   display: block;
+   page-break-after: avoid;
+   page-break-inside: avoid;
+}
 

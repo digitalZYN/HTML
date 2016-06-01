@@ -1,0 +1,57 @@
+/*
+   New Perspectives on HTML and CSS
+   Tutorial 8
+   Review Assignment
+
+   Special Effects style sheet
+   Author: Martine Hernandez
+   Date:   05/28/16
+
+   Filename:  dfeffects.css
+   Supporting Files: paper.png
+
+*/
+
+nav#familyLinks {
+    -moz-box-shadow: inset rgba(0,0,0,0.6) -10px 0px 15px;
+    -webkit-box-shadow: inset rgba(0,0,0,0.6) -10px 0px 15px;
+    box-shadow: inset rgba(0,0,0,0.6) -10px 0px 15px;
+}
+
+nav#familyLinks ul img {
+
+    -moz-box-shadow: rgba(0,0,0,0.6) 10px 10px 15px;
+    -webkit-box-shadow: rgba(0,0,0,0.6) 10px 10px 15px;
+    box-shadow: rgba(0,0,0,0.6) 10px 10px 15px;
+    opacity: 0.6;
+}
+
+nav#familyLinks img:hover {
+    -o-transform: rotate(-5deg);
+    -moz-transform: rotate(-5deg);
+    -webkit-transform: rotate(-5deg);
+    -ms-transform: rotate(-5deg);
+    transform: rotate(-5deg);
+    opacity: 1.0;
+}
+
+article {
+    background: -o-linear-gradient(left, rgb(151, 151, 151), rgb(231, 231, 231));
+    background: -ms-linear-gradient(left, rgb(151,151,151), rgb(231,231,231));
+    background: -moz-linear-gradient(left, rgb(151,151,151), rgb(231,231,231));
+    background: -webkit-linear-gradient(left, rgb(151,151,151), rgb(231,231,231));
+    background: linear-gradient(left, rgb(151,151,151), rgb(231,231,231));
+}
+
+h1 {
+    text-shadow: black 1px 1px 0px,
+    rgba(30,57,0,0.8) 5px 5px 10px;
+}
+
+article img#family {
+    border-width: 10px;
+    -o-border-image: url("paper.png") 70 repeat;
+    -moz-border-image: url("paper.png") 70 repeat;
+    -webkit-border-image: url("paper.png") 70 repeat;
+    border-image: url("paper.png") 70 repeat;
+}
