@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8df7a5ac-ab49-4efd-ba84-2e2bc2ac53d0" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/case1/dweffectstxt.css" afterPath="$PROJECT_DIR$/case1/dweffects.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/case1/dwprinttxt.css" afterPath="$PROJECT_DIR$/case1/dwprint.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/case1/recipetxt.htm" afterPath="$PROJECT_DIR$/case1/recipe.htm" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/review/dfeffectstxt.css" afterPath="$PROJECT_DIR$/review/dfeffects.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/review/dfmobiletxt.css" afterPath="$PROJECT_DIR$/review/dfmobile.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/review/dfprinttxt.css" afterPath="$PROJECT_DIR$/review/dfprint.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/review/dubcektxt.htm" afterPath="$PROJECT_DIR$/review/dubcek.htm" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tutorial/effectstxt.css" afterPath="$PROJECT_DIR$/tutorial/effects.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tutorial/mobiletxt.css" afterPath="$PROJECT_DIR$/tutorial/mobile.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tutorial/printtxt.css" afterPath="$PROJECT_DIR$/tutorial/print.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Web Page/w2.jpg" afterPath="$PROJECT_DIR$/../Web Page/w2.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/__MACOSX/._case1" afterPath="$PROJECT_DIR$/../tutorial.01/__MACOSX/._case1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.01/__MACOSX/._review" afterPath="$PROJECT_DIR$/../tutorial.01/__MACOSX/._review" />
@@ -304,6 +294,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/tutorial/rwdance.webm" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/rwdance.webm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/tutorial/threestars.jpg" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/threestars.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.07/tutorial/tutorial.zip" afterPath="$PROJECT_DIR$/../tutorial.07/tutorial/tutorial.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case1/case1.zip" afterPath="$PROJECT_DIR$/case1/case1.zip" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case1/dw.png" afterPath="$PROJECT_DIR$/case1/dw.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case1/halfstar.png" afterPath="$PROJECT_DIR$/case1/halfstar.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case1/star.png" afterPath="$PROJECT_DIR$/case1/star.png" />
@@ -363,6 +354,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/link07.png" afterPath="$PROJECT_DIR$/review/link07.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/link08.png" afterPath="$PROJECT_DIR$/review/link08.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/paper.png" afterPath="$PROJECT_DIR$/review/paper.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/review.zip" afterPath="$PROJECT_DIR$/review/review.zip" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/tblogo.png" afterPath="$PROJECT_DIR$/review/tblogo.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/tblogo_sm.png" afterPath="$PROJECT_DIR$/review/tblogo_sm.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/borderimg.png" afterPath="$PROJECT_DIR$/tutorial/borderimg.png" />
@@ -375,6 +367,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/photo5.png" afterPath="$PROJECT_DIR$/tutorial/photo5.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/tblogo.png" afterPath="$PROJECT_DIR$/tutorial/tblogo.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/tblogo_sm.png" afterPath="$PROJECT_DIR$/tutorial/tblogo_sm.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/tutorial.zip" afterPath="$PROJECT_DIR$/tutorial/tutorial.zip" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/HTML.iml" afterPath="$PROJECT_DIR$/../.idea/HTML.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/modules.xml" afterPath="$PROJECT_DIR$/../.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
@@ -630,8 +623,11 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case1/dwbase.css" afterPath="$PROJECT_DIR$/case1/dwbase.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case1/dweffects.css" afterPath="$PROJECT_DIR$/case1/dweffects.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case1/dwlayout.css" afterPath="$PROJECT_DIR$/case1/dwlayout.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case1/dwprint.css" afterPath="$PROJECT_DIR$/case1/dwprint.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case1/modernizr-1.5.js" afterPath="$PROJECT_DIR$/case1/modernizr-1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case1/recipe.htm" afterPath="$PROJECT_DIR$/case1/recipe.htm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/h01.htm" afterPath="$PROJECT_DIR$/case2/h01.htm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/h02.htm" afterPath="$PROJECT_DIR$/case2/h02.htm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case2/h03.htm" afterPath="$PROJECT_DIR$/case2/h03.htm" />
@@ -675,13 +671,20 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/demo_transformations.htm" afterPath="$PROJECT_DIR$/demo/demo_transformations.htm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/demo_transformations3d.htm" afterPath="$PROJECT_DIR$/demo/demo_transformations3d.htm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/dfbase.css" afterPath="$PROJECT_DIR$/review/dfbase.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/dfeffects.css" afterPath="$PROJECT_DIR$/review/dfeffects.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/dflayout.css" afterPath="$PROJECT_DIR$/review/dflayout.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/dfmobile.css" afterPath="$PROJECT_DIR$/review/dfmobile.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/dfprint.css" afterPath="$PROJECT_DIR$/review/dfprint.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/dubcek.htm" afterPath="$PROJECT_DIR$/review/dubcek.htm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/modernizr-1.5.js" afterPath="$PROJECT_DIR$/review/modernizr-1.5.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/base.css" afterPath="$PROJECT_DIR$/tutorial/base.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/effects.css" afterPath="$PROJECT_DIR$/tutorial/effects.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/landscape.txt" afterPath="$PROJECT_DIR$/tutorial/landscape.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/layout.css" afterPath="$PROJECT_DIR$/tutorial/layout.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/mobile.css" afterPath="$PROJECT_DIR$/tutorial/mobile.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/modernizr-1.5.js" afterPath="$PROJECT_DIR$/tutorial/modernizr-1.5.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/portrait.txt" afterPath="$PROJECT_DIR$/tutorial/portrait.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/print.css" afterPath="$PROJECT_DIR$/tutorial/print.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/treebook.htm" afterPath="$PROJECT_DIR$/tutorial/treebook.htm" />
     </list>
     <ignored path="tutorial.08.iws" />
@@ -697,46 +700,6 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-            <file leaf-file-name="effects.css" pinned="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/tutorial/effects.css">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="515">
-                    <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="67" selection-end-column="70" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file leaf-file-name="dfeffects.css" pinned="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/review/dfeffects.css">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="374">
-                    <caret line="22" column="15" selection-start-line="22" selection-start-column="0" selection-end-line="24" selection-end-column="47" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file leaf-file-name="dwprint.css" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/case1/dwprint.css">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="714">
-                    <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="tutorial.08" />
@@ -746,7 +709,7 @@
       <file leaf-file-name="treebook.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tutorial/treebook.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="510">
               <caret line="30" column="50" selection-start-line="30" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
@@ -756,7 +719,7 @@
       <file leaf-file-name="recipe.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/case1/recipe.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
+            <state relative-caret-position="2652">
               <caret line="156" column="14" selection-start-line="156" selection-start-column="14" selection-end-line="156" selection-end-column="14" />
               <folding />
             </state>
@@ -776,7 +739,7 @@
       <file leaf-file-name="mobile.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tutorial/mobile.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="841">
+            <state relative-caret-position="969">
               <caret line="57" column="20" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
               <folding />
             </state>
@@ -832,7 +795,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
+    <option name="x" value="-1290" />
+    <option name="y" value="3" />
     <option name="width" value="1294" />
     <option name="height" value="1087" />
   </component>
@@ -861,6 +825,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -878,52 +843,9 @@
               <option name="myItemId" value="tutorial.08" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tutorial" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tutorial.08" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tutorial.08" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="review" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tutorial.08" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tutorial.08" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tutorial.08" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tutorial.08" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="case1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -1038,32 +960,33 @@
       <workItem from="1464665690427" duration="1081000" />
       <workItem from="1464672046542" duration="4608000" />
       <workItem from="1464756449233" duration="6263000" />
+      <workItem from="1465096428912" duration="83000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42743000" />
+    <option name="totallyTimeSpent" value="42826000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1294" height="1087" extended-state="0" />
+    <frame x="-1290" y="3" width="1294" height="1087" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19585988" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19585988" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39935413" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39935413" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1409,7 +1332,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tutorial/effects.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
+        <state relative-caret-position="1071">
           <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="67" selection-end-column="70" />
           <folding />
         </state>
@@ -1433,7 +1356,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tutorial/treebook.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="510">
           <caret line="30" column="50" selection-start-line="30" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
@@ -1441,7 +1364,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tutorial/mobile.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="841">
+        <state relative-caret-position="969">
           <caret line="57" column="20" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
           <folding />
         </state>
@@ -1449,7 +1372,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/case1/recipe.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
+        <state relative-caret-position="2652">
           <caret line="156" column="14" selection-start-line="156" selection-start-column="14" selection-end-line="156" selection-end-column="14" />
           <folding />
         </state>
